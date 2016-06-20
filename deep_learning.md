@@ -29,10 +29,10 @@
   Uncertainty, Fuzziness and Knowledge-Based Systems, 6(02),
   107-116.][Hochreiter1998]
 
-- Vincent, P., Larochelle, H., Bengio, Y., & Manzagol, P. A. (2008, July).
+- [Vincent, P., Larochelle, H., Bengio, Y., & Manzagol, P. A. (2008, July).
   Extracting and composing robust features with denoising autoencoders. In
   Proceedings of the 25th international conference on Machine learning (pp.
-  1096-1103). ACM.
+  1096-1103). ACM.][VincentEtAl2008]
 
 - [Raina, R., Madhavan, A., & Ng, A. Y. (2009, June). Large-scale deep
   unsupervised learning using graphics processors. In Proceedings of the 26th
@@ -65,6 +65,7 @@
 [McCullochPitts1943]: http://www.minicomplexity.org/pubs/1943-mcculloch-pitts-bmb.pdf
 [Hebb1949]: http://s-f-walker.org.uk/pubsebooks/pdfs/The_Organization_of_Behavior-Donald_O._Hebb.pdf
 [Hochreiter1998]: http://www.bioinf.jku.at/publications/older/2304.pdf
+[VincentEtAl2008]: http://www.cs.toronto.edu/~larocheh/publications/icml-2008-denoising-autoencoders.pdf
 [RainaEtAl2009]: http://www.machinelearning.org/archive/icml2009/papers/218.pdf
 [Ciresan2010]: http://arxiv.org/pdf/1003.0358.pdf
 [GlorotBengio2010]: http://www.jmlr.org/proceedings/papers/v9/glorot10a/glorot10a.pdf
