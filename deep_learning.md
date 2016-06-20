@@ -34,6 +34,15 @@
   Proceedings of the 25th international conference on Machine learning (pp.
   1096-1103). ACM.
 
+- [Raina, R., Madhavan, A., & Ng, A. Y. (2009, June). Large-scale deep
+  unsupervised learning using graphics processors. In Proceedings of the 26th
+  annual international conference on machine learning (pp. 873-880).
+  ACM.][RainaEtAl2009]
+
+- [Ciresan, D. C., Meier, U., Gambardella, L. M., & Schmidhuber, J. (2010).
+  Deep, big, simple neural nets for handwritten digit recognition. Neural
+  computation, 22(12), 3207-3220.][Ciresan2010]
+
 - [Glorot, X., & Bengio, Y. (2010, May). Understanding the difficulty of
   training deep feedforward neural networks. In Aistats (Vol. 9, pp. 249-256).]
   [GlorotBengio2010]
@@ -56,5 +65,7 @@
 [McCullochPitts1943]: http://www.minicomplexity.org/pubs/1943-mcculloch-pitts-bmb.pdf
 [Hebb1949]: http://s-f-walker.org.uk/pubsebooks/pdfs/The_Organization_of_Behavior-Donald_O._Hebb.pdf
 [Hochreiter1998]: http://www.bioinf.jku.at/publications/older/2304.pdf
+[RainaEtAl2009]: http://www.machinelearning.org/archive/icml2009/papers/218.pdf
+[Ciresan2010]: http://arxiv.org/pdf/1003.0358.pdf
 [GlorotBengio2010]: http://www.jmlr.org/proceedings/papers/v9/glorot10a/glorot10a.pdf
 [SutskeverEtAl2013]: http://www.jmlr.org/proceedings/papers/v28/sutskever13.pdf
