@@ -11,8 +11,8 @@
 - Minsky, M., & Papert, S. (1972). Perceptrons: An Introduction to
   Computational Geometry (2nd Edition with corrections). Cambridge: MIT press.
 
-- Werbos, P. (1974). Beyond regression: New tools for prediction and analysis
-  in the behavioral sciences.
+- Werbos, P. (1974). Beyond regression: New Tools for Prediction and Analysis
+  in the Behavioral Sciences.
 
 - Ivakhnenko, A. G. (1968). The group method of data handling-a rival of the
   method of stochastic approximation. Soviet Automatic Control, 13(3), 43-55.
@@ -20,9 +20,9 @@
 - Ivakhnenko, A. G. (1971). Polynomial theory of complex systems. IEEE
   Transactions on Systems, Man and Cybernetics, (4):364-378.
 
-- Bengio, Y., Simard, P., & Frasconi, P. (1994). Learning long-term
+- [Bengio, Y., Simard, P., & Frasconi, P. (1994). Learning long-term
   dependencies with gradient descent is difficult. IEEE transactions on neural
-  networks, 5(2), 157-166.
+  networks, 5(2), 157-166.][BengioEtAl1994]
 
 - [Hochreiter, S. (1998). The vanishing gradient problem during learning
   recurrent neural nets and problem solutions. International Journal of
@@ -47,26 +47,31 @@
   training deep feedforward neural networks. In Aistats (Vol. 9, pp. 249-256).]
   [GlorotBengio2010]
 
-- Glorot, X., Bordes, A., & Bengio, Y. (2011, April). Deep Sparse Rectifier
-  Neural Networks. In Aistats (Vol. 15, No. 106, p. 275).
+- [Glorot, X., Bordes, A., & Bengio, Y. (2011, April). Deep Sparse Rectifier
+  Neural Networks. In Aistats (Vol. 15, No. 106, p. 275).][GlorotEtAl2011]
 
 - [Sutskever, I., Martens, J., Dahl, G. E., & Hinton, G. E. (2013). On the
   importance of initialization and momentum in deep learning. ICML (3), 28,
   1139-1147.][SutskeverEtAl2013]
 
-- Srivastava, N., Hinton, G. E., Krizhevsky, A., Sutskever, I., &
+- [Srivastava, N., Hinton, G. E., Krizhevsky, A., Sutskever, I., &
   Salakhutdinov, R. (2014). Dropout: a simple way to prevent neural networks
-  from overfitting. Journal of Machine Learning Research, 15(1), 1929-1958.
+  from overfitting. Journal of Machine Learning Research, 15(1), 1929-1958.]
+  [SrivastavaEtAl2014]
 
-- LeCun, Y., Bengio, Y., & Hinton, G. (2015). Deep learning. Nature, 521(7553),
-  436-444.
+- [LeCun, Y., Bengio, Y., & Hinton, G. (2015). Deep learning. Nature, 521(7553),
+  436-444.][LeCunEtAl2015]
 
 
 [McCullochPitts1943]: http://www.minicomplexity.org/pubs/1943-mcculloch-pitts-bmb.pdf
 [Hebb1949]: http://s-f-walker.org.uk/pubsebooks/pdfs/The_Organization_of_Behavior-Donald_O._Hebb.pdf
+[BengioEtAl1994]: http://www-dsi.ing.unifi.it/~paolo/ps/tnn-94-gradient.pdf
 [Hochreiter1998]: http://www.bioinf.jku.at/publications/older/2304.pdf
 [VincentEtAl2008]: http://www.cs.toronto.edu/~larocheh/publications/icml-2008-denoising-autoencoders.pdf
 [RainaEtAl2009]: http://www.machinelearning.org/archive/icml2009/papers/218.pdf
 [Ciresan2010]: http://arxiv.org/pdf/1003.0358.pdf
 [GlorotBengio2010]: http://www.jmlr.org/proceedings/papers/v9/glorot10a/glorot10a.pdf
+[GlorotEtAl2011]: http://machinelearning.wustl.edu/mlpapers/paper_files/AISTATS2011_GlorotBB11.pdf
 [SutskeverEtAl2013]: http://www.jmlr.org/proceedings/papers/v28/sutskever13.pdf
+[LeCunEtAl2015]: https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf
+[SrivastavaEtAl2014]: https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf
