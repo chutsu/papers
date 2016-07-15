@@ -26,6 +26,10 @@
   dependencies with gradient descent is difficult. IEEE transactions on neural
   networks, 5(2), 157-166.][BengioEtAl1994]
 
+- [LeCun, Y., & Bengio, Y. (1995). Convolutional networks for images, speech, 
+  and time series. The handbook of brain theory and neural networks, 3361(10), 
+  1995.][LeCunBengio1995]
+
 - [Hochreiter, S. (1998). The vanishing gradient problem during learning
   recurrent neural nets and problem solutions. International Journal of
   Uncertainty, Fuzziness and Knowledge-Based Systems, 6(02),
@@ -68,6 +72,7 @@
 [McCullochPitts1943]: http://www.minicomplexity.org/pubs/1943-mcculloch-pitts-bmb.pdf
 [Hebb1949]: http://s-f-walker.org.uk/pubsebooks/pdfs/The_Organization_of_Behavior-Donald_O._Hebb.pdf
 [BengioEtAl1994]: http://www-dsi.ing.unifi.it/~paolo/ps/tnn-94-gradient.pdf
+[LeCunBengio1995]: http://yann.lecun.com/exdb/publis/pdf/lecun-bengio-95a.pdf
 [Hochreiter1998]: http://www.bioinf.jku.at/publications/older/2304.pdf
 [VincentEtAl2008]: http://www.cs.toronto.edu/~larocheh/publications/icml-2008-denoising-autoencoders.pdf
 [RainaEtAl2009]: http://www.machinelearning.org/archive/icml2009/papers/218.pdf
