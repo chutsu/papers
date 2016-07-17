@@ -10,6 +10,11 @@
 - Rosenblatt, Frank (1957), The Perceptron, a perceiving and recognizing
   automaton. Report 85-460-1, Cornell Aeronautical Laboratory.
 
+- Hubel, D. H., & Wiesel, T. N. (1968). Receptive fields and functional 
+  architecture of monkey striate cortex. The Journal of physiology, 195(1), 
+  215-243.
+
+
 - Minsky, M., & Papert, S. (1972). Perceptrons: An Introduction to
   Computational Geometry (2nd Edition with corrections). Cambridge: MIT press.
 
