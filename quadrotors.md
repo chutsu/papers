@@ -17,5 +17,19 @@
   }
   ```
   
+- Mohajerin, N., & Waslander, S. L. (2015, October). Modelling a Quadrotor Vehicle 
+  Using a Modular Deep Recurrent Neural Network. In Systems, Man, and Cybernetics 
+  (SMC), 2015 IEEE International Conference on (pp. 376-381). IEEE.
+
+  ```
+  @inproceedings{mohajerin2015modelling,
+    title={Modelling a Quadrotor Vehicle Using a Modular Deep Recurrent Neural Network},
+    author={Mohajerin, Nima and Waslander, Steven L},
+    booktitle={Systems, Man, and Cybernetics (SMC), 2015 IEEE International Conference on},
+    pages={376--381},
+    year={2015},
+    organization={IEEE}
+  }
+  ```
   
   
