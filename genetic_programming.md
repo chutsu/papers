@@ -67,9 +67,9 @@
   }
   ```
   
-- O'Reilly, U. M., & Oppacher, F. (1995). The Troubling spects of a Building Block Eypothesis 
+- [O'Reilly, U. M., & Oppacher, F. (1995). The Troubling spects of a Building Block Eypothesis 
   for Genetic Programming. In: L. DARRELL WHITLEY and MICHAEL D. VOSE, Editor(s), Foundations of 
-  Genetic Algorithms, Elsevier, 1995, Volume 3, Pages 73-88,
+  Genetic Algorithms, Elsevier, 1995, Volume 3, Pages 73-88,][OreillyOppacher1995]
 
   ```
   @incollection{O'Reilly199573,
@@ -88,8 +88,8 @@
   }
   ```
   
-- Poli, R., Langdon, W. B., McPhee, N. F., & Koza, J. R. (2008). A field guide to genetic 
-  programming. Lulu.com.
+- [Poli, R., Langdon, W. B., McPhee, N. F., & Koza, J. R. (2008). A field guide to genetic 
+  programming. Lulu.com.][PoliLangdon2008]
 
   ```
   @book{poli2008field,
@@ -100,9 +100,9 @@
   }
   ```
   
-- Poli, R. (2000, July). Exact schema theorem and effective fitness for GP with one-point 
+- [Poli, R. (2000, July). Exact schema theorem and effective fitness for GP with one-point 
   crossover. In Proceedings of the 2nd Annual Conference on Genetic and Evolutionary 
-  Computation (pp. 469-476). Morgan Kaufmann Publishers Inc.
+  Computation (pp. 469-476). Morgan Kaufmann Publishers Inc.][Poli2000]
 
   ```
   @inproceedings{poli2000exact,
@@ -115,3 +115,8 @@
   }
   ```
   
+  
+  
+[OreillyOppacher1995]: http://www.cs.uml.edu/~giam/91.510/Papers/OReillyOppacher1994.pdf
+[Poli2000]: http://cswww.essex.ac.uk/staff/rpoli/papers/Poli-GECCO2000.pdf
+[PoliLangdon2008]: http://www0.cs.ucl.ac.uk/staff/wlangdon/ftp/papers/poli08_fieldguide.pdf
