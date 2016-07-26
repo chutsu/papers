@@ -115,7 +115,40 @@
   }
   ```
   
+- [Schmidt, M., & Lipson, H. (2009). Distilling free-form natural laws from experimental data. science, 324(5923), 81-85.][SchmidtLipson2009] 
+
+  [[Supporting Online Material]][SchmidtLipson2009SOM]
+
+  ```
+  @article{schmidt2009distilling,
+    title={Distilling free-form natural laws from experimental data},
+    author={Schmidt, Michael and Lipson, Hod},
+    journal={science},
+    volume={324},
+    number={5923},
+    pages={81--85},
+    year={2009},
+    publisher={American Association for the Advancement of Science}
+  }
+  ```
+  
+- [Schmidt, M., & Lipson, H. (2010). Symbolic regression of implicit equations. In Genetic Programming Theory and Practice VII (pp. 73-85). Springer US.][SchmidtLipson2010]
+
+  ```
+  @incollection{schmidt2010symbolic,
+    title={Symbolic regression of implicit equations},
+    author={Schmidt, Michael and Lipson, Hod},
+    booktitle={Genetic Programming Theory and Practice VII},
+    pages={73--85},
+    year={2010},
+    publisher={Springer}
+  }
+  ```
+  
   
 [OreillyOppacher1995]: http://www.cs.uml.edu/~giam/91.510/Papers/OReillyOppacher1994.pdf
 [Poli2000]: http://cswww.essex.ac.uk/staff/rpoli/papers/Poli-GECCO2000.pdf
 [PoliLangdon2008]: http://www0.cs.ucl.ac.uk/staff/wlangdon/ftp/papers/poli08_fieldguide.pdf
+[SchmidtLipson2009]: http://www.genetic-programming.org/hc2010/4-Schmidt-Natural-Laws/Schmidt-Science-2009-Natural-Laws-Paper.pdf
+[SchmidtLipson2009SOM]: http://www.genetic-programming.org/hc2010/4-Schmidt-Natural-Laws/Schmidt-Science-2009-Natural-Laws-Supplement-to-Paper.pdf
+[SchmidtLipson2010]: http://www.genetic-programming.org/hc2010/4-Schmidt-Natural-Laws/Schmidt-Implicit-Equations-GPTP-7-Paper.pdf
