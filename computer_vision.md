@@ -1,6 +1,8 @@
 # Computer Vision
 
-- [Rosten, E., & Drummond, T. (2006, May). Machine learning for high-speed corner detection. In European conference on computer vision (pp. 430-443). Springer Berlin Heidelberg.][RostenDrummond2006]
+- [Rosten, E., & Drummond, T. (2006, May). Machine learning for high-speed
+  corner detection. In European conference on computer vision (pp. 430-443).
+  Springer Berlin Heidelberg.][RostenDrummond2006]
 
     ```
     @inproceedings{rosten2006machine,
