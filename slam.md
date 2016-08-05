@@ -19,7 +19,14 @@
   (2016). Simultaneous Localization And Mapping: Present, Future, and the Robust-Perception Age. 
   arXiv preprint arXiv:1606.05830.][CadenaEtAl2016]
 
-
+  ```
+  @article{cadena2016simultaneous,
+    title={Simultaneous Localization And Mapping: Present, Future, and the Robust-Perception Age},
+    author={Cadena, Cesar and Carlone, Luca and Carrillo, Henry and Latif, Yasir and Scaramuzza, Davide and Neira, Jose and Reid, Ian D and Leonard, John J},
+    journal={arXiv preprint arXiv:1606.05830},
+    year={2016}
+  }
+  ```
 
 
 [KleinMurray2007]: http://www.robots.ox.ac.uk/~gk/publications/KleinMurray2007ISMAR.pdf
