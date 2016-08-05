@@ -10,16 +10,15 @@
 - Rosenblatt, Frank (1957), The Perceptron, a perceiving and recognizing
   automaton. Report 85-460-1, Cornell Aeronautical Laboratory.
 
-- Hubel, D. H., & Wiesel, T. N. (1968). Receptive fields and functional 
-  architecture of monkey striate cortex. The Journal of physiology, 195(1), 
-  215-243.
-
-
 - Minsky, M., & Papert, S. (1972). Perceptrons: An Introduction to
   Computational Geometry (2nd Edition with corrections). Cambridge: MIT press.
 
 - Werbos, P. (1974). Beyond regression: New Tools for Prediction and Analysis
   in the Behavioral Sciences.
+
+- [Hubel, D. and Wiesel, T. (1968). Receptive fields and functional architecture
+  of monkey striate cortex. Journal of Physiology (London), 195, 215–243.]
+  [HubelWiesel1968]
 
 - Ivakhnenko, A. G. (1968). The group method of data handling-a rival of the
   method of stochastic approximation. Soviet Automatic Control, 13(3), 43-55.
@@ -31,14 +30,17 @@
   dependencies with gradient descent is difficult. IEEE transactions on neural
   networks, 5(2), 157-166.][BengioEtAl1994]
 
-- [LeCun, Y., & Bengio, Y. (1995). Convolutional networks for images, speech, 
-  and time series. The handbook of brain theory and neural networks, 3361(10), 
+- [LeCun, Y., & Bengio, Y. (1995). Convolutional networks for images, speech,
+  and time series. The handbook of brain theory and neural networks, 3361(10),
   1995.][LeCunBengio1995]
 
 - [Hochreiter, S. (1998). The vanishing gradient problem during learning
   recurrent neural nets and problem solutions. International Journal of
   Uncertainty, Fuzziness and Knowledge-Based Systems, 6(02),
   107-116.][Hochreiter1998]
+  
+- [Hinton, G. E., Osindero, S., & Teh, Y. W. (2006). A fast learning algorithm
+  for deep belief nets. Neural computation, 18(7), 1527-1554.][HintonEtAl2006]
 
 - [Vincent, P., Larochelle, H., Bengio, Y., & Manzagol, P. A. (2008, July).
   Extracting and composing robust features with denoising autoencoders. In
@@ -76,9 +78,11 @@
 
 [McCullochPitts1943]: http://www.minicomplexity.org/pubs/1943-mcculloch-pitts-bmb.pdf
 [Hebb1949]: http://s-f-walker.org.uk/pubsebooks/pdfs/The_Organization_of_Behavior-Donald_O._Hebb.pdf
+[HubelWiesel1968]: http://hubel.med.harvard.edu/papers/HubelWiesel1968Jphysiol.pdf
 [BengioEtAl1994]: http://www-dsi.ing.unifi.it/~paolo/ps/tnn-94-gradient.pdf
 [LeCunBengio1995]: http://yann.lecun.com/exdb/publis/pdf/lecun-bengio-95a.pdf
 [Hochreiter1998]: http://www.bioinf.jku.at/publications/older/2304.pdf
+[HintonEtAl2006]: https://www.cs.toronto.edu/~hinton/absps/fastnc.pdf
 [VincentEtAl2008]: http://www.cs.toronto.edu/~larocheh/publications/icml-2008-denoising-autoencoders.pdf
 [RainaEtAl2009]: http://www.machinelearning.org/archive/icml2009/papers/218.pdf
 [Ciresan2010]: http://arxiv.org/pdf/1003.0358.pdf
