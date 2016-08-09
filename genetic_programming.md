@@ -91,6 +91,20 @@
     publisher={[Champaign, IL, USA: Complex Systems Publications, Inc., c1987-}
   }
   ```
+  
+- [Blickle, T., & Thiele, L. (1995, July). A Mathematical Analysis of Tournament 
+  Selection. In ICGA (pp. 9-16).][BlickleThiele1995]
+
+  ```
+  @inproceedings{blickle1995mathematical,
+    title={A Mathematical Analysis of Tournament Selection.},
+    author={Blickle, Tobias and Thiele, Lothar},
+    booktitle={ICGA},
+    pages={9--16},
+    year={1995},
+    organization={Citeseer}
+  }
+  ```
 
 - [O'Reilly, U. M., & Oppacher, F. (1995). The Troubling spects of a Building
   Block Eypothesis for Genetic Programming. In: L. DARRELL WHITLEY and MICHAEL
@@ -180,6 +194,7 @@
   ```
 
 [MillerGoldberg1995]: http://www.complex-systems.com/pdf/09-3-2.pdf
+[BlickleThiele1995]: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.52.9907&rep=rep1&type=pdf
 [OreillyOppacher1995]: http://www.cs.uml.edu/~giam/91.510/Papers/OReillyOppacher1994.pdf
 [Poli2000]: http://cswww.essex.ac.uk/staff/rpoli/papers/Poli-GECCO2000.pdf
 [PoliLangdon2008]: http://www0.cs.ucl.ac.uk/staff/wlangdon/ftp/papers/poli08_fieldguide.pdf
