@@ -1,9 +1,10 @@
 # Quadrotors
 
-- Hoffmann, G., Rajnarayan, D. G., Waslander, S. L., Dostal, D., Jang, 
+- [Hoffmann, G., Rajnarayan, D. G., Waslander, S. L., Dostal, D., Jang, 
   J. S., & Tomlin, C. J. (2004, October). The Stanford testbed of autonomous 
   rotorcraft for multi agent control (STARMAC). In Digital Avionics Systems 
-  Conference, 2004. DASC 04. The 23rd (Vol. 2, pp. 12-E). IEEE.
+  Conference, 2004. DASC 04. The 23rd (Vol. 2, pp. 12-E). IEEE.]
+  [HoffmannEtAl2004]
 
   ```
   @inproceedings{hoffmann2004stanford,
@@ -19,9 +20,9 @@
   }
   ```
 
-- Madani, T., & Benallegue, A. (2008). Adaptive control via backstepping 
+- [Madani, T., & Benallegue, A. (2008). Adaptive control via backstepping 
   technique and neural networks of a quadrotor helicopter. IFAC Proceedings 
-  Volumes, 41(2), 6513-6518.
+  Volumes, 41(2), 6513-6518.][MadaniBenallegue2008]
 
   ```
   @article{madani2008adaptive,
@@ -73,3 +74,5 @@
   ```
   
   
+[HoffmannEtAl2004]: https://people.eecs.berkeley.edu/~tomlin/papers/conferences/hrwdjt04_dasc.pdf
+[MadaniBenallegue2008]: http://www.nt.ntnu.no/users/skoge/prost/proceedings/ifac2008/data/papers/1353.pdf
