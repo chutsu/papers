@@ -128,6 +128,9 @@
     author = "Una-May O'Reilly and Franz Oppacher"
   }
   ```
+  
+- [Punch, W. F. (1998). How effective are multiple populations in genetic programming. 
+  Genetic Programming, 98, 308-313.][Punch1998]
 
 - [Poli, R. (2000, July). Exact schema theorem and effective fitness for GP
   with one-point crossover. In Proceedings of the 2nd Annual Conference on
@@ -196,6 +199,7 @@
 [MillerGoldberg1995]: http://www.complex-systems.com/pdf/09-3-2.pdf
 [BlickleThiele1995]: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.52.9907&rep=rep1&type=pdf
 [OreillyOppacher1995]: http://www.cs.uml.edu/~giam/91.510/Papers/OReillyOppacher1994.pdf
+[Punch1998]: http://garage.cse.msu.edu/papers/GARAGe98-07-01.pdf
 [Poli2000]: http://cswww.essex.ac.uk/staff/rpoli/papers/Poli-GECCO2000.pdf
 [PoliLangdon2008]: http://www0.cs.ucl.ac.uk/staff/wlangdon/ftp/papers/poli08_fieldguide.pdf
 [SchmidtLipson2009]: http://www.genetic-programming.org/hc2010/4-Schmidt-Natural-Laws/Schmidt-Science-2009-Natural-Laws-Paper.pdf
