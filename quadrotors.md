@@ -1,5 +1,42 @@
 # Quadrotors
 
+- Hoffmann, G., Rajnarayan, D. G., Waslander, S. L., Dostal, D., Jang, 
+  J. S., & Tomlin, C. J. (2004, October). The Stanford testbed of autonomous 
+  rotorcraft for multi agent control (STARMAC). In Digital Avionics Systems 
+  Conference, 2004. DASC 04. The 23rd (Vol. 2, pp. 12-E). IEEE.
+
+  ```
+  @inproceedings{hoffmann2004stanford,
+    title={The Stanford testbed of autonomous rotorcraft for multi agent 
+    control (STARMAC)},
+    author={Hoffmann, Gabe and Rajnarayan, Dev Gorur and Waslander, 
+    Steven L and Dostal, David and Jang, Jung Soon and Tomlin, Claire J},
+    booktitle={Digital Avionics Systems Conference, 2004. DASC 04. The 23rd},
+    volume={2},
+    pages={12--E},
+    year={2004},
+    organization={IEEE}
+  }
+  ```
+
+- Madani, T., & Benallegue, A. (2008). Adaptive control via backstepping 
+  technique and neural networks of a quadrotor helicopter. IFAC Proceedings 
+  Volumes, 41(2), 6513-6518.
+
+  ```
+  @article{madani2008adaptive,
+    title={Adaptive control via backstepping technique and neural networks 
+    of a quadrotor helicopter},
+    author={Madani, Tarek and Benallegue, Abdelaziz},
+    journal={IFAC Proceedings Volumes},
+    volume={41},
+    number={2},
+    pages={6513--6518},
+    year={2008},
+    publisher={Elsevier}
+  }
+  ```
+
 - Mahony, R., Kumar, V., & Corke, P. (2012). Multirotor aerial vehicles:
   Modeling, estimation, and control of quadrotor. IEEE robotics & automation
   magazine, 19(3), 20-32.
