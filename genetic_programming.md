@@ -74,6 +74,23 @@
     publisher={MIT press}
   }
   ```
+  
+- [Miller, B. L., & Goldberg, D. E. (1995). Genetic algorithms, tournament 
+  selection, and the effects of noise. Complex systems, 9(3), 193-212.]
+  [MillerGoldberg1995]
+
+  ```
+  @article{miller1995genetic,
+    title={Genetic algorithms, tournament selection, and the effects of noise},
+    author={Miller, Brad L and Goldberg, David E},
+    journal={Complex systems},
+    volume={9},
+    number={3},
+    pages={193--212},
+    year={1995},
+    publisher={[Champaign, IL, USA: Complex Systems Publications, Inc., c1987-}
+  }
+  ```
 
 - [O'Reilly, U. M., & Oppacher, F. (1995). The Troubling spects of a Building
   Block Eypothesis for Genetic Programming. In: L. DARRELL WHITLEY and MICHAEL
@@ -162,7 +179,7 @@
   }
   ```
 
-
+[MillerGoldberg1995]: http://www.complex-systems.com/pdf/09-3-2.pdf
 [OreillyOppacher1995]: http://www.cs.uml.edu/~giam/91.510/Papers/OReillyOppacher1994.pdf
 [Poli2000]: http://cswww.essex.ac.uk/staff/rpoli/papers/Poli-GECCO2000.pdf
 [PoliLangdon2008]: http://www0.cs.ucl.ac.uk/staff/wlangdon/ftp/papers/poli08_fieldguide.pdf
