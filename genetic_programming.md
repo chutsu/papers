@@ -132,6 +132,17 @@
 - [Punch, W. F. (1998). How effective are multiple populations in genetic programming. 
   Genetic Programming, 98, 308-313.][Punch1998]
 
+  ```
+  @article{punch1998effective,
+    title={How effective are multiple populations in genetic programming},
+    author={Punch, William F},
+    journal={Genetic Programming},
+    volume={98},
+    pages={308--313},
+    year={1998}
+  }
+  ```
+
 - [Poli, R. (2000, July). Exact schema theorem and effective fitness for GP
   with one-point crossover. In Proceedings of the 2nd Annual Conference on
   Genetic and Evolutionary Computation (pp. 469-476). Morgan Kaufmann
