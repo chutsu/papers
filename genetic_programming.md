@@ -174,6 +174,22 @@
   }
   ```
 
+- [Schmidt, M. D., & Lipson, H. (2008). Coevolution of fitness predictors. 
+  IEEE Transactions on Evolutionary Computation, 12(6), 736-749.]
+
+  ```
+  @article{schmidt2008coevolution,
+    title={Coevolution of fitness predictors},
+    author={Schmidt, Michael D and Lipson, Hod},
+    journal={IEEE Transactions on Evolutionary Computation},
+    volume={12},
+    number={6},
+    pages={736--749},
+    year={2008},
+    publisher={IEEE}
+  }
+  ```
+
 - [Schmidt, M., & Lipson, H. (2009). Distilling free-form natural laws from
   experimental data. science, 324(5923), 81-85.][SchmidtLipson2009]
 
