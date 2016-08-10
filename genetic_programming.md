@@ -161,6 +161,19 @@
   }
   ```
 
+- [Schmidt, M., & Lipson, H. (2005). Coevolution of fitness maximizers and 
+  fitness predictors. GECCO Late Breaking Paper.][SchmidtLipson2005]
+
+  ```
+  @article{schmidt2005coevolution,
+    title={Coevolution of fitness maximizers and fitness predictors},
+    author={Schmidt, M and Lipson, Hod},
+    journal={GECCO Late Breaking Paper},
+    year={2005},
+    publisher={Citeseer}
+  }
+  ```
+
 - [Poli, R., Langdon, W. B., McPhee, N. F., & Koza, J. R. (2008). A field guide
   to genetic programming. Lulu.com.][PoliLangdon2008]
 
@@ -228,6 +241,7 @@
 [OreillyOppacher1995]: http://www.cs.uml.edu/~giam/91.510/Papers/OReillyOppacher1994.pdf
 [Punch1998]: http://garage.cse.msu.edu/papers/GARAGe98-07-01.pdf
 [Poli2000]: http://cswww.essex.ac.uk/staff/rpoli/papers/Poli-GECCO2000.pdf
+[SchmidtLipson2005]: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.95.3088&rep=rep1&type=pdf
 [PoliLangdon2008]: http://www0.cs.ucl.ac.uk/staff/wlangdon/ftp/papers/poli08_fieldguide.pdf
 [SchmidtLipson2009]: http://www.genetic-programming.org/hc2010/4-Schmidt-Natural-Laws/Schmidt-Science-2009-Natural-Laws-Paper.pdf
 [SchmidtLipson2009SOM]: http://www.genetic-programming.org/hc2010/4-Schmidt-Natural-Laws/Schmidt-Science-2009-Natural-Laws-Supplement-to-Paper.pdf
