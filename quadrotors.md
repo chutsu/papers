@@ -83,7 +83,31 @@
     year={2015}
   }
   ```
+
+- [Zhang, T., Kahn, G., Levine, S., & Abbeel, P. (2015). Learning deep control policies for autonomous aerial vehicles with mpc-guided policy search. arXiv preprint arXiv:1509.06791.][ZhangEtAl2015]
+
+  ```
+  @article{zhang2015learning,
+    title={Learning deep control policies for autonomous aerial vehicles with mpc-guided policy search},
+    author={Zhang, Tianhao and Kahn, Gregory and Levine, Sergey and Abbeel, Pieter},
+    journal={arXiv preprint arXiv:1509.06791},
+    year={2015}
+  }
+  ```
+  
+- [Kahn, G., Zhang, T., Levine, S., & Abbeel, P. (2016). PLATO: Policy Learning using Adaptive Trajectory Optimization. arXiv preprint arXiv:1603.00622.][KahnEtAl2016]
+
+  ```
+  @article{kahn2016plato,
+    title={PLATO: Policy Learning using Adaptive Trajectory Optimization},
+    author={Kahn, Gregory and Zhang, Tianhao and Levine, Sergey and Abbeel, Pieter},
+    journal={arXiv preprint arXiv:1603.00622},
+    year={2016}
+  }
+  ```
   
 [HoffmannEtAl2004]: https://people.eecs.berkeley.edu/~tomlin/papers/conferences/hrwdjt04_dasc.pdf
 [MadaniBenallegue2008]: http://www.nt.ntnu.no/users/skoge/prost/proceedings/ifac2008/data/papers/1353.pdf
 [BerkenkampEtAl2015]: http://www.dynsyslab.org/wp-content/papercite-data/pdf/berkenkamp-icra16.pdf
+[ZhangEtAl2015]: https://arxiv.org/pdf/1509.06791v2.pdf
+[KahnEtAl2016]: https://arxiv.org/pdf/1603.00622.pdf
