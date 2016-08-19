@@ -84,6 +84,21 @@
   }
   ```
 
+- [Bry, A., Richter, C., Bachrach, A., & Roy, N. (2015). Aggressive flight of fixed-wing and quadrotor aircraft in dense indoor environments. The International Journal of Robotics Research, 34(7), 969-1002.][BryEtAl2015]
+
+  ```
+  @article{bry2015aggressive,
+    title={Aggressive flight of fixed-wing and quadrotor aircraft in dense indoor environments},
+    author={Bry, Adam and Richter, Charles and Bachrach, Abraham and Roy, Nicholas},
+    journal={The International Journal of Robotics Research},
+    volume={34},
+    number={7},
+    pages={969--1002},
+    year={2015},
+    publisher={SAGE Publications}
+  }
+  ```
+
 - [Zhang, T., Kahn, G., Levine, S., & Abbeel, P. (2015). Learning deep control policies for autonomous aerial vehicles with mpc-guided policy search. arXiv preprint arXiv:1509.06791.][ZhangEtAl2015]
 
   ```
@@ -123,6 +138,7 @@
 [HoffmannEtAl2004]: https://people.eecs.berkeley.edu/~tomlin/papers/conferences/hrwdjt04_dasc.pdf
 [MadaniBenallegue2008]: http://www.nt.ntnu.no/users/skoge/prost/proceedings/ifac2008/data/papers/1353.pdf
 [BerkenkampEtAl2015]: http://www.dynsyslab.org/wp-content/papercite-data/pdf/berkenkamp-icra16.pdf
+[BryEtAl2015]: https://groups.csail.mit.edu/rrg/papers/BryIJRR15.pdf
 [ZhangEtAl2015]: https://arxiv.org/pdf/1509.06791v2.pdf
 [KahnEtAl2016]: https://arxiv.org/pdf/1603.00622.pdf
 [RichterRoy2016]: https://www.semanticscholar.org/paper/Polynomial-Trajectory-Planning-for-Aggressive-Richter-Bry/2376078d13761387cabb933798b93a706c2ea7ef/pdf
