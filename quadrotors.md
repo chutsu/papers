@@ -37,6 +37,19 @@
     publisher={Elsevier}
   }
   ```
+  
+- [Mellinger, D., & Kumar, V. (2011, May). Minimum snap trajectory generation and control for quadrotors. In Robotics and Automation (ICRA), 2011 IEEE International Conference on (pp. 2520-2525). IEEE.][MellingerKumar2011]
+
+  ```
+  @inproceedings{mellinger2011minimum,
+    title={Minimum snap trajectory generation and control for quadrotors},
+    author={Mellinger, Daniel and Kumar, Vijay},
+    booktitle={Robotics and Automation (ICRA), 2011 IEEE International Conference on},
+    pages={2520--2525},
+    year={2011},
+    organization={IEEE}
+  }
+  ```
 
 - Mahony, R., Kumar, V., & Corke, P. (2012). Multirotor aerial vehicles:
   Modeling, estimation, and control of quadrotor. IEEE robotics & automation
@@ -137,6 +150,7 @@
   
 [HoffmannEtAl2004]: https://people.eecs.berkeley.edu/~tomlin/papers/conferences/hrwdjt04_dasc.pdf
 [MadaniBenallegue2008]: http://www.nt.ntnu.no/users/skoge/prost/proceedings/ifac2008/data/papers/1353.pdf
+[MellingerKumar2011]: http://www-personal.acfr.usyd.edu.au/spns/cdm/papers/Mellinger.pdf
 [BerkenkampEtAl2015]: http://www.dynsyslab.org/wp-content/papercite-data/pdf/berkenkamp-icra16.pdf
 [BryEtAl2015]: https://groups.csail.mit.edu/rrg/papers/BryIJRR15.pdf
 [ZhangEtAl2015]: https://arxiv.org/pdf/1509.06791v2.pdf
