@@ -73,6 +73,17 @@
   }
   ```
   
+- [Berkenkamp, F., Schoellig, A. P., & Krause, A. (2015). Safe controller optimization for quadrotors with Gaussian processes. arXiv preprint arXiv:1509.01066.][BerkenkampEtAl2015]
+
+  ```
+  @article{berkenkamp2015safe,
+    title={Safe controller optimization for quadrotors with Gaussian processes},
+    author={Berkenkamp, Felix and Schoellig, Angela P and Krause, Andreas},
+    journal={arXiv preprint arXiv:1509.01066},
+    year={2015}
+  }
+  ```
   
 [HoffmannEtAl2004]: https://people.eecs.berkeley.edu/~tomlin/papers/conferences/hrwdjt04_dasc.pdf
 [MadaniBenallegue2008]: http://www.nt.ntnu.no/users/skoge/prost/proceedings/ifac2008/data/papers/1353.pdf
+[BerkenkampEtAl2015]: http://www.dynsyslab.org/wp-content/papercite-data/pdf/berkenkamp-icra16.pdf
