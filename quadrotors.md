@@ -106,8 +106,23 @@
   }
   ```
   
+- [Richter, C., Bry, A., & Roy, N. (2016). Polynomial trajectory planning for aggressive quadrotor flight in dense indoor environments. In Robotics Research (pp. 649-666). Springer International Publishing.][RichterRoy2016]
+
+  ```
+  @incollection{richter2016polynomial,
+    title={Polynomial trajectory planning for aggressive quadrotor flight in dense indoor environments},
+    author={Richter, Charles and Bry, Adam and Roy, Nicholas},
+    booktitle={Robotics Research},
+    pages={649--666},
+    year={2016},
+    publisher={Springer}
+  }
+  ```
+  
+  
 [HoffmannEtAl2004]: https://people.eecs.berkeley.edu/~tomlin/papers/conferences/hrwdjt04_dasc.pdf
 [MadaniBenallegue2008]: http://www.nt.ntnu.no/users/skoge/prost/proceedings/ifac2008/data/papers/1353.pdf
 [BerkenkampEtAl2015]: http://www.dynsyslab.org/wp-content/papercite-data/pdf/berkenkamp-icra16.pdf
 [ZhangEtAl2015]: https://arxiv.org/pdf/1509.06791v2.pdf
 [KahnEtAl2016]: https://arxiv.org/pdf/1603.00622.pdf
+[RichterRoy2016]: https://www.semanticscholar.org/paper/Polynomial-Trajectory-Planning-for-Aggressive-Richter-Bry/2376078d13761387cabb933798b93a706c2ea7ef/pdf
