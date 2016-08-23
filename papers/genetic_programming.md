@@ -236,6 +236,12 @@
   }
   ```
   
+- [Augusto, D. A., Bernardino, H. S., & Barbosa, H. J. (2012). Parallel 
+  Genetic Programming on Graphics Processing Units. INTECH Open Access Publisher.]
+  [AugustoBernadinoBarbosa2012]
+  
+  
+  
 - [Brookhouse, J., Otero, F. E., & Kampouridis, M. (2014, July). Working with 
   OpenCL to speed up a genetic programming financial forecasting algorithm: 
   initial results. In Proceedings of the Companion Publication of the 2014 
@@ -265,4 +271,5 @@
 [SchmidtLipson2009]: http://www.genetic-programming.org/hc2010/4-Schmidt-Natural-Laws/Schmidt-Science-2009-Natural-Laws-Paper.pdf
 [SchmidtLipson2009SOM]: http://www.genetic-programming.org/hc2010/4-Schmidt-Natural-Laws/Schmidt-Science-2009-Natural-Laws-Supplement-to-Paper.pdf
 [SchmidtLipson2010]: http://www.genetic-programming.org/hc2010/4-Schmidt-Natural-Laws/Schmidt-Implicit-Equations-GPTP-7-Paper.pdf
+[AugustoBernadinoBarbosa2012]: http://cdn.intechopen.com/pdfs-wm/40292.pdf
 [BrookhouseOteroKampouridis2014]: https://kar.kent.ac.uk/42144/1/brookhouse-evosoft2014.pdf
