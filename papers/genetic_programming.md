@@ -239,8 +239,15 @@
 - [Augusto, D. A., Bernardino, H. S., & Barbosa, H. J. (2012). Parallel 
   Genetic Programming on Graphics Processing Units. INTECH Open Access Publisher.]
   [AugustoBernadinoBarbosa2012]
-  
-  
+
+  ```
+  @book{augusto2012parallel,
+    title={Parallel Genetic Programming on Graphics Processing Units},
+    author={Augusto, Douglas A and Bernardino, Heder S and Barbosa, Helio JC},
+    year={2012},
+    publisher={INTECH Open Access Publisher}
+  }
+  ```
   
 - [Brookhouse, J., Otero, F. E., & Kampouridis, M. (2014, July). Working with 
   OpenCL to speed up a genetic programming financial forecasting algorithm: 
