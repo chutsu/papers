@@ -235,6 +235,25 @@
     publisher={Springer}
   }
   ```
+  
+- [Brookhouse, J., Otero, F. E., & Kampouridis, M. (2014, July). Working with 
+  OpenCL to speed up a genetic programming financial forecasting algorithm: 
+  initial results. In Proceedings of the Companion Publication of the 2014 
+  Annual Conference on Genetic and Evolutionary Computation (pp. 1117-1124). 
+  ACM.][BrookhouseOteroKampouridis2014]
+
+  ```
+  @inproceedings{brookhouse2014working,
+    title={Working with OpenCL to speed up a genetic programming financial forecasting algorithm: initial results},
+    author={Brookhouse, James and Otero, Fernando EB and Kampouridis, Michael},
+    booktitle={Proceedings of the Companion Publication of the 2014 Annual Conference on Genetic and Evolutionary Computation},
+    pages={1117--1124},
+    year={2014},
+    organization={ACM}
+  }
+  ```
+
+
 
 [MillerGoldberg1995]: http://www.complex-systems.com/pdf/09-3-2.pdf
 [BlickleThiele1995]: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.52.9907&rep=rep1&type=pdf
@@ -246,3 +265,4 @@
 [SchmidtLipson2009]: http://www.genetic-programming.org/hc2010/4-Schmidt-Natural-Laws/Schmidt-Science-2009-Natural-Laws-Paper.pdf
 [SchmidtLipson2009SOM]: http://www.genetic-programming.org/hc2010/4-Schmidt-Natural-Laws/Schmidt-Science-2009-Natural-Laws-Supplement-to-Paper.pdf
 [SchmidtLipson2010]: http://www.genetic-programming.org/hc2010/4-Schmidt-Natural-Laws/Schmidt-Implicit-Equations-GPTP-7-Paper.pdf
+[BrookhouseOteroKampouridis2014]: https://kar.kent.ac.uk/42144/1/brookhouse-evosoft2014.pdf
