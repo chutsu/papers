@@ -74,8 +74,8 @@
     publisher={MIT press}
   }
   ```
-  
-- [Miller, B. L., & Goldberg, D. E. (1995). Genetic algorithms, tournament 
+
+- [Miller, B. L., & Goldberg, D. E. (1995). Genetic algorithms, tournament
   selection, and the effects of noise. Complex systems, 9(3), 193-212.]
   [MillerGoldberg1995]
 
@@ -91,8 +91,8 @@
     publisher={[Champaign, IL, USA: Complex Systems Publications, Inc., c1987-}
   }
   ```
-  
-- [Blickle, T., & Thiele, L. (1995, July). A Mathematical Analysis of Tournament 
+
+- [Blickle, T., & Thiele, L. (1995, July). A Mathematical Analysis of Tournament
   Selection. In ICGA (pp. 9-16).][BlickleThiele1995]
 
   ```
@@ -128,9 +128,9 @@
     author = "Una-May O'Reilly and Franz Oppacher"
   }
   ```
-  
-- [Punch, W. F. (1998). How effective are multiple populations in genetic programming. 
-  Genetic Programming, 98, 308-313.][Punch1998]
+
+- [Punch, W. F. (1998). How effective are multiple populations in genetic
+  programming.  Genetic Programming, 98, 308-313.][Punch1998]
 
   ```
   @article{punch1998effective,
@@ -161,7 +161,7 @@
   }
   ```
 
-- [Schmidt, M., & Lipson, H. (2005). Coevolution of fitness maximizers and 
+- [Schmidt, M., & Lipson, H. (2005). Coevolution of fitness maximizers and
   fitness predictors. GECCO Late Breaking Paper.][SchmidtLipson2005]
 
   ```
@@ -187,7 +187,7 @@
   }
   ```
 
-- [Schmidt, M. D., & Lipson, H. (2008). Coevolution of fitness predictors. 
+- [Schmidt, M. D., & Lipson, H. (2008). Coevolution of fitness predictors.
   IEEE Transactions on Evolutionary Computation, 12(6), 736-749.]
 
   ```
@@ -235,18 +235,36 @@
     publisher={Springer}
   }
   ```
-  
-- [Brookhouse, J., Otero, F. E., & Kampouridis, M. (2014, July). Working with 
-  OpenCL to speed up a genetic programming financial forecasting algorithm: 
-  initial results. In Proceedings of the Companion Publication of the 2014 
-  Annual Conference on Genetic and Evolutionary Computation (pp. 1117-1124). 
+
+- [Langdon, W. B. (2011). Graphics processing units and genetic programming: an
+  overview. Soft Computing, 15(8), 1657-1669.][Langdon2011]
+
+  ```
+  @article{langdon2011graphics,
+    title={Graphics processing units and genetic programming: an overview},
+    author={Langdon, William B},
+    journal={Soft Computing},
+    volume={15},
+    number={8},
+    pages={1657--1669},
+    year={2011},
+    publisher={Springer}
+  }
+  ```
+
+- [Brookhouse, J., Otero, F. E., & Kampouridis, M. (2014, July). Working with
+  OpenCL to speed up a genetic programming financial forecasting algorithm:
+  initial results. In Proceedings of the Companion Publication of the 2014
+  Annual Conference on Genetic and Evolutionary Computation (pp. 1117-1124).
   ACM.][BrookhouseOteroKampouridis2014]
 
   ```
   @inproceedings{brookhouse2014working,
-    title={Working with OpenCL to speed up a genetic programming financial forecasting algorithm: initial results},
+    title={Working with OpenCL to speed up a genetic programming financial
+    forecasting algorithm: initial results},
     author={Brookhouse, James and Otero, Fernando EB and Kampouridis, Michael},
-    booktitle={Proceedings of the Companion Publication of the 2014 Annual Conference on Genetic and Evolutionary Computation},
+    booktitle={Proceedings of the Companion Publication of the 2014 Annual
+    Conference on Genetic and Evolutionary Computation},
     pages={1117--1124},
     year={2014},
     organization={ACM}
@@ -265,4 +283,5 @@
 [SchmidtLipson2009]: http://www.genetic-programming.org/hc2010/4-Schmidt-Natural-Laws/Schmidt-Science-2009-Natural-Laws-Paper.pdf
 [SchmidtLipson2009SOM]: http://www.genetic-programming.org/hc2010/4-Schmidt-Natural-Laws/Schmidt-Science-2009-Natural-Laws-Supplement-to-Paper.pdf
 [SchmidtLipson2010]: http://www.genetic-programming.org/hc2010/4-Schmidt-Natural-Laws/Schmidt-Implicit-Equations-GPTP-7-Paper.pdf
+[Langdon2011]: http://www0.cs.ucl.ac.uk/staff/wlangdon/ftp/papers/langdon_gpu.pdf
 [BrookhouseOteroKampouridis2014]: https://kar.kent.ac.uk/42144/1/brookhouse-evosoft2014.pdf
