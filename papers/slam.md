@@ -16,6 +16,21 @@
     organization={IEEE}
   }
   ```
+  
+- [Strasdat, H., Montiel, J. M. M., & Davison, A. J. (2010, May). Real-time 
+  monocular SLAM: Why filter?. In Robotics and Automation (ICRA), 2010 IEEE 
+  International Conference on (pp. 2657-2664). IEEE.][StrasdatEtAl2010]
+
+  ```
+  @inproceedings{strasdat2010real,
+    title={Real-time monocular SLAM: Why filter?},
+    author={Strasdat, Hauke and Montiel, JMM and Davison, Andrew J},
+    booktitle={Robotics and Automation (ICRA), 2010 IEEE International Conference on},
+    pages={2657--2664},
+    year={2010},
+    organization={IEEE}
+  }
+  ```
 
 - [Cadena, C., Carlone, L., Carrillo, H., Latif, Y., Scaramuzza, D., Neira, J.,
   ... & Leonard, J. J.  (2016). Simultaneous Localization And Mapping: Present,
@@ -36,4 +51,5 @@
 
 
 [KleinMurray2007]: http://www.robots.ox.ac.uk/~gk/publications/KleinMurray2007ISMAR.pdf
+[StrasdatEtAl2010]: https://www.doc.ic.ac.uk/~ajd/Publications/strasdat_etal_icra2010.pdf
 [CadenaEtAl2016]: http://www.arxiv.org/pdf/1606.05830v2.pdf
