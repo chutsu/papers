@@ -235,6 +235,7 @@
     publisher={Springer}
   }
   ```
+<<<<<<< HEAD
 
 - [Langdon, W. B. (2011). Graphics processing units and genetic programming: an
   overview. Soft Computing, 15(8), 1657-1669.][Langdon2011]
@@ -251,11 +252,24 @@
     publisher={Springer}
   }
   ```
+  
+- [Augusto, D. A., Bernardino, H. S., & Barbosa, H. J. (2012). Parallel 
+  Genetic Programming on Graphics Processing Units. INTECH Open Access Publisher.]
+  [AugustoBernadinoBarbosa2012]
 
-- [Brookhouse, J., Otero, F. E., & Kampouridis, M. (2014, July). Working with
-  OpenCL to speed up a genetic programming financial forecasting algorithm:
-  initial results. In Proceedings of the Companion Publication of the 2014
-  Annual Conference on Genetic and Evolutionary Computation (pp. 1117-1124).
+  ```
+  @book{augusto2012parallel,
+    title={Parallel Genetic Programming on Graphics Processing Units},
+    author={Augusto, Douglas A and Bernardino, Heder S and Barbosa, Helio JC},
+    year={2012},
+    publisher={INTECH Open Access Publisher}
+  }
+  ```
+  
+- [Brookhouse, J., Otero, F. E., & Kampouridis, M. (2014, July). Working with 
+  OpenCL to speed up a genetic programming financial forecasting algorithm: 
+  initial results. In Proceedings of the Companion Publication of the 2014 
+  Annual Conference on Genetic and Evolutionary Computation (pp. 1117-1124). 
   ACM.][BrookhouseOteroKampouridis2014]
 
   ```
@@ -284,4 +298,5 @@
 [SchmidtLipson2009SOM]: http://www.genetic-programming.org/hc2010/4-Schmidt-Natural-Laws/Schmidt-Science-2009-Natural-Laws-Supplement-to-Paper.pdf
 [SchmidtLipson2010]: http://www.genetic-programming.org/hc2010/4-Schmidt-Natural-Laws/Schmidt-Implicit-Equations-GPTP-7-Paper.pdf
 [Langdon2011]: http://www0.cs.ucl.ac.uk/staff/wlangdon/ftp/papers/langdon_gpu.pdf
+[AugustoBernadinoBarbosa2012]: http://cdn.intechopen.com/pdfs-wm/40292.pdf
 [BrookhouseOteroKampouridis2014]: https://kar.kent.ac.uk/42144/1/brookhouse-evosoft2014.pdf
