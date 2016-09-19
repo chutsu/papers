@@ -1,4 +1,11 @@
 # SLAM
+In robotic mapping, simultaneous localization and mapping (SLAM) is the
+computational problem of constructing or updating a map of an unknown
+environment while simultaneously keeping track of an agents location within
+it. While this initially appears to be a chicken-and-egg problem there are
+several algorithms known for solving it, at least approximately, in tractable
+time for certain environments.
+
 
 ## Types
 
@@ -41,3 +48,14 @@
   global map: The world is represented as a number o keyframes connected by
   pose-pose constraints, which can be optimized using a generic graph
   optimization framework like g2o.
+
+
+
+## Keyframes
+Keyframes are fundamental data structures in SLAM whose fundamental goal is to
+provide a primary reference for tracking and triangulation. Each keyframe stores
+
+- 2D image points with corresponding 3D object points
+- Feature descriptors (feature-based SLAM) or depth map (direct-SLAM) extracted
+  from keyframe image
+- Estimated world camera pose

@@ -4,7 +4,7 @@
   small AR workspaces.  In Mixed and Augmented Reality, 2007. ISMAR 2007. 6th
   IEEE and ACM International Symposium on (pp. 225-234).
   IEEE.][KleinMurray2007]
-  
+
   ```
   @inproceedings{klein2007parallel,
     title={Parallel tracking and mapping for small AR workspaces},
@@ -16,19 +16,53 @@
     organization={IEEE}
   }
   ```
-  
-- [Strasdat, H., Montiel, J. M. M., & Davison, A. J. (2010, May). Real-time 
-  monocular SLAM: Why filter?. In Robotics and Automation (ICRA), 2010 IEEE 
+
+- [Grisetti, G., Kummerle, R., Stachniss, C., & Burgard, W. (2010). A tutorial
+  on graph-based SLAM. IEEE Intelligent Transportation Systems Magazine, 2(4),
+  31-43.][GrisettiEtAl2010]
+
+  ```
+  @article{grisetti2010tutorial,
+    title={A tutorial on graph-based SLAM},
+    author={Grisetti, Giorgio and Kummerle, Rainer and Stachniss, Cyrill and
+    Burgard, Wolfram},
+    journal={IEEE Intelligent Transportation Systems Magazine},
+    volume={2},
+    number={4},
+    pages={31--43},
+    year={2010},
+    publisher={IEEE}
+  }
+  ```
+
+- [Strasdat, H., Montiel, J. M. M., & Davison, A. J. (2010, May). Real-time
+  monocular SLAM: Why filter?. In Robotics and Automation (ICRA), 2010 IEEE
   International Conference on (pp. 2657-2664). IEEE.][StrasdatEtAl2010]
 
   ```
   @inproceedings{strasdat2010real,
     title={Real-time monocular SLAM: Why filter?},
     author={Strasdat, Hauke and Montiel, JMM and Davison, Andrew J},
-    booktitle={Robotics and Automation (ICRA), 2010 IEEE International Conference on},
+    booktitle={Robotics and Automation (ICRA), 2010 IEEE International
+    Conference on},
     pages={2657--2664},
     year={2010},
     organization={IEEE}
+  }
+  ```
+
+- [Engel, J., Schöps, T., & Cremers, D. (2014, September). LSD-SLAM:
+  Large-scale direct monocular SLAM. In European Conference on Computer Vision
+  (pp. 834-849). Springer International Publishing.][EngelEtAl2014]
+
+  ```
+  @inproceedings{engel2014lsd,
+    title={LSD-SLAM: Large-scale direct monocular SLAM},
+    author={Engel, Jakob and Sch{\"o}ps, Thomas and Cremers, Daniel},
+    booktitle={European Conference on Computer Vision},
+    pages={834--849},
+    year={2014},
+    organization={Springer}
   }
   ```
 
@@ -51,5 +85,7 @@
 
 
 [KleinMurray2007]: http://www.robots.ox.ac.uk/~gk/publications/KleinMurray2007ISMAR.pdf
+[GrisettiEtAl2010]: http://www2.informatik.uni-freiburg.de/~stachnis/pdf/grisetti10titsmag.pdf
 [StrasdatEtAl2010]: https://www.doc.ic.ac.uk/~ajd/Publications/strasdat_etal_icra2010.pdf
+[EngelEtAl2014]: https://vision.in.tum.de/_media/spezial/bib/engel14eccv.pdf
 [CadenaEtAl2016]: http://www.arxiv.org/pdf/1606.05830v2.pdf
