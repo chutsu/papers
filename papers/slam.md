@@ -1,5 +1,38 @@
 # SLAM
 
+- [Durrant-Whyte, H., & Bailey, T. (2006). Simultaneous localization and
+  mapping: part I. IEEE robotics & automation magazine, 13(2),
+  99-110.][DurrantBailey2006]
+
+    ```
+    @article{durrant2006simultaneous,
+      title={Simultaneous localization and mapping: part I},
+      author={Durrant-Whyte, Hugh and Bailey, Tim},
+      journal={IEEE robotics \& automation magazine},
+      volume={13},
+      number={2},
+      pages={99--110},
+      year={2006},
+      publisher={IEEE}
+    }
+    ```
+
+- [Bailey, T., & Durrant-Whyte, H. (2006). Simultaneous localization and
+  mapping (SLAM): Part II. IEEE Robotics & Automation Magazine, 13(3),
+  108-117.][BaileyDurrant2006]
+
+    ```
+    @article{bailey2006simultaneous,
+      title={Simultaneous localization and mapping (SLAM): Part II},
+      author={Bailey, Tim and Durrant-Whyte, Hugh},
+      journal={IEEE Robotics \& Automation Magazine},
+      volume={13},
+      number={3},
+      pages={108--117},
+      year={2006}
+    }
+    ```
+
 - [Klein, G., & Murray, D. (2007, November). Parallel tracking and mapping for
   small AR workspaces.  In Mixed and Augmented Reality, 2007. ISMAR 2007. 6th
   IEEE and ACM International Symposium on (pp. 225-234).
@@ -83,7 +116,8 @@
   }
   ```
 
-
+[DurrantBailey2006]: https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/Durrant-Whyte_Bailey_SLAM-tutorial-I.pdf
+[BaileyDurrant2006]: http://www-personal.acfr.usyd.edu.au/tbailey/papers/slamtute2.pdf
 [KleinMurray2007]: http://www.robots.ox.ac.uk/~gk/publications/KleinMurray2007ISMAR.pdf
 [GrisettiEtAl2010]: http://www2.informatik.uni-freiburg.de/~stachnis/pdf/grisetti10titsmag.pdf
 [StrasdatEtAl2010]: https://www.doc.ic.ac.uk/~ajd/Publications/strasdat_etal_icra2010.pdf
