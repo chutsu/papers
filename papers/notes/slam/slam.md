@@ -6,8 +6,59 @@ it. While this initially appears to be a chicken-and-egg problem there are
 several algorithms known for solving it, at least approximately, in tractable
 time for certain environments.
 
+![SLAM](imgs/slam.png)
 
-## Types
+Consider a mobile robot moving through an environment taking relative
+observations of a number of unknown landmarks using a sensor located on the
+robot. At a time instant $k$, the following quantities are defined:
+
+- $x_{k}$: State vector describing the pose and more of the robot
+- $u_{k}$: Control vector applied at time $k - 1$ to drive the robot to a state
+  $x_k$ at time $k$.
+- $m_{i}$: A vector describing the location of the $i^{\text{th}}$ landmark
+  whose true location is assumed time invariant.
+- $z_{ik}$: An observation taken from the vehicle of the location of the
+  $i^{\text{th}}$ landmark at time $k$. When there are multiple landmark
+  observations at any one time or when the specific landmark is not relevant to
+  discussion, the observation will be written simply as $z_{k}$.
+
+In addition the following sets are also defined:
+
+- $X_{0:k} = {x_{0}, x_{1}, ..., x_{k}} = {X_{0:k - 1}, x_{k}}$: History of
+  robot locations
+- $U_{0:k} = {u_{0}, u_{1}, ..., u_{k}} = {U_{0:k - 1}, u_{k}}$: History of
+  control inputs
+- $m = {m_{1}, m_{2}, ..., m_{n}}$: Set of all landmarks
+- $Z_{0:k} = {z_{0}, z_{1}, ..., z_{k}} = {Z_{0:k - 1}, z_{k}}$: Set of all
+  landmark observations
+
+The most important insight in SLAM was to realize that the correlations between
+landmark estimates increase monotonically as more and more observations are
+made. Practically, this means that knowledge of the relative location of
+landmarks always improves and never diverges, regardless of robot motion. In
+probabilistic terms, this means that the joint probability density on all
+landmarks $P(m)$ becomes monotonically more peaked as more observations are
+made.
+
+This convergence occurs because the observations made by the robot can be
+considered as "nearly independent" measurements of the relative location
+between landmarks. Relative location of observed landmarks is independent of
+the coordinate frame of the robot and successive observations from this fixed
+location would yield further independent measurements of the relative
+relationship between landmarks. The term "nearly independent" measurement is
+appropriate because the observation errors will be correlated through
+successive vehicle motions.
+
+
+
+## Anatomy of Modern SLAM Systems
+The architecture of a SLAM system includes two main components: the
+**front-end** and the **back-end**. The front-end abstracts sensor data into
+models that are amenable for estimation, while the back-end performs the
+inference on the abstracted data produced by the front-end.
+
+
+### Types of Front-End
 
 - **Feature-Based Methods**: Fundamental idea behind feature-based approaches
   (both filtering-based and keyframe-based) is to split the overall problem of
@@ -45,13 +96,12 @@ time for certain environments.
   loop closures.
 
 - **Pose Graph Optimization**: Well known SLAM technique to build a consistent,
-  global map: The world is represented as a number o keyframes connected by
+  global map: The world is represented as a number of keyframes connected by
   pose-pose constraints, which can be optimized using a generic graph
   optimization framework like g2o.
 
 
-
-## Keyframes
+### Keyframes
 Keyframes are fundamental data structures in SLAM whose fundamental goal is to
 provide a primary reference for tracking and triangulation. Each keyframe stores
 
@@ -59,3 +109,6 @@ provide a primary reference for tracking and triangulation. Each keyframe stores
 - Feature descriptors (feature-based SLAM) or depth map (direct-SLAM) extracted
   from keyframe image
 - Estimated world camera pose
+
+
+
