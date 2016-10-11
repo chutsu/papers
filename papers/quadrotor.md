@@ -1,4 +1,4 @@
-# Quadrotors
+# Quadrotor
 
 - [Hoffmann, G., Rajnarayan, D. G., Waslander, S. L., Dostal, D., Jang, 
   J. S., & Tomlin, C. J. (2004, October). The Stanford testbed of autonomous 
@@ -38,13 +38,16 @@
   }
   ```
   
-- [Mellinger, D., & Kumar, V. (2011, May). Minimum snap trajectory generation and control for quadrotors. In Robotics and Automation (ICRA), 2011 IEEE International Conference on (pp. 2520-2525). IEEE.][MellingerKumar2011]
+- [Mellinger, D., & Kumar, V. (2011, May). Minimum snap trajectory generation
+  and control for quadrotors. In Robotics and Automation (ICRA), 2011 IEEE
+  International Conference on (pp. 2520-2525). IEEE.][MellingerKumar2011]
 
   ```
   @inproceedings{mellinger2011minimum,
     title={Minimum snap trajectory generation and control for quadrotors},
     author={Mellinger, Daniel and Kumar, Vijay},
-    booktitle={Robotics and Automation (ICRA), 2011 IEEE International Conference on},
+    booktitle={Robotics and Automation (ICRA), 2011 IEEE International
+    Conference on},
     pages={2520--2525},
     year={2011},
     organization={IEEE}
@@ -86,23 +89,30 @@
   }
   ```
   
-- [Berkenkamp, F., Schoellig, A. P., & Krause, A. (2015). Safe controller optimization for quadrotors with Gaussian processes. arXiv preprint arXiv:1509.01066.][BerkenkampEtAl2015]
+- [Berkenkamp, F., Schoellig, A. P., & Krause, A. (2015). Safe controller
+  optimization for quadrotors with Gaussian processes. arXiv preprint
+  arXiv:1509.01066.][BerkenkampEtAl2015]
 
   ```
   @article{berkenkamp2015safe,
-    title={Safe controller optimization for quadrotors with Gaussian processes},
+    title={Safe controller optimization for quadrotors with Gaussian
+    processes},
     author={Berkenkamp, Felix and Schoellig, Angela P and Krause, Andreas},
     journal={arXiv preprint arXiv:1509.01066},
     year={2015}
   }
   ```
 
-- [Bry, A., Richter, C., Bachrach, A., & Roy, N. (2015). Aggressive flight of fixed-wing and quadrotor aircraft in dense indoor environments. The International Journal of Robotics Research, 34(7), 969-1002.][BryEtAl2015]
+- [Bry, A., Richter, C., Bachrach, A., & Roy, N. (2015). Aggressive flight of
+  fixed-wing and quadrotor aircraft in dense indoor environments. The
+  International Journal of Robotics Research, 34(7), 969-1002.][BryEtAl2015]
 
   ```
   @article{bry2015aggressive,
-    title={Aggressive flight of fixed-wing and quadrotor aircraft in dense indoor environments},
-    author={Bry, Adam and Richter, Charles and Bachrach, Abraham and Roy, Nicholas},
+    title={Aggressive flight of fixed-wing and quadrotor aircraft in dense
+    indoor environments},
+    author={Bry, Adam and Richter, Charles and Bachrach, Abraham and Roy,
+    Nicholas},
     journal={The International Journal of Robotics Research},
     volume={34},
     number={7},
@@ -112,33 +122,43 @@
   }
   ```
 
-- [Zhang, T., Kahn, G., Levine, S., & Abbeel, P. (2015). Learning deep control policies for autonomous aerial vehicles with mpc-guided policy search. arXiv preprint arXiv:1509.06791.][ZhangEtAl2015]
+- [Zhang, T., Kahn, G., Levine, S., & Abbeel, P. (2015). Learning deep control
+  policies for autonomous aerial vehicles with mpc-guided policy search. arXiv
+  preprint arXiv:1509.06791.][ZhangEtAl2015]
 
   ```
   @article{zhang2015learning,
-    title={Learning deep control policies for autonomous aerial vehicles with mpc-guided policy search},
-    author={Zhang, Tianhao and Kahn, Gregory and Levine, Sergey and Abbeel, Pieter},
+    title={Learning deep control policies for autonomous aerial vehicles with
+    mpc-guided policy search},
+    author={Zhang, Tianhao and Kahn, Gregory and Levine, Sergey and Abbeel,
+    Pieter},
     journal={arXiv preprint arXiv:1509.06791},
     year={2015}
   }
   ```
   
-- [Kahn, G., Zhang, T., Levine, S., & Abbeel, P. (2016). PLATO: Policy Learning using Adaptive Trajectory Optimization. arXiv preprint arXiv:1603.00622.][KahnEtAl2016]
+- [Kahn, G., Zhang, T., Levine, S., & Abbeel, P. (2016). PLATO: Policy Learning
+  using Adaptive Trajectory Optimization. arXiv preprint
+  arXiv:1603.00622.][KahnEtAl2016]
 
   ```
   @article{kahn2016plato,
     title={PLATO: Policy Learning using Adaptive Trajectory Optimization},
-    author={Kahn, Gregory and Zhang, Tianhao and Levine, Sergey and Abbeel, Pieter},
+    author={Kahn, Gregory and Zhang, Tianhao and Levine, Sergey and Abbeel,
+    Pieter},
     journal={arXiv preprint arXiv:1603.00622},
     year={2016}
   }
   ```
   
-- [Richter, C., Bry, A., & Roy, N. (2016). Polynomial trajectory planning for aggressive quadrotor flight in dense indoor environments. In Robotics Research (pp. 649-666). Springer International Publishing.][RichterRoy2016]
+- [Richter, C., Bry, A., & Roy, N. (2016). Polynomial trajectory planning for
+  aggressive quadrotor flight in dense indoor environments. In Robotics
+  Research (pp. 649-666). Springer International Publishing.][RichterRoy2016]
 
   ```
   @incollection{richter2016polynomial,
-    title={Polynomial trajectory planning for aggressive quadrotor flight in dense indoor environments},
+    title={Polynomial trajectory planning for aggressive quadrotor flight in
+    dense indoor environments},
     author={Richter, Charles and Bry, Adam and Roy, Nicholas},
     booktitle={Robotics Research},
     pages={649--666},

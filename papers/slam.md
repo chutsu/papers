@@ -99,6 +99,24 @@
   }
   ```
 
+- [Leutenegger, S., Lynen, S., Bosse, M., Siegwart, R., & Furgale, P. (2015).
+  Keyframe-based visual–inertial odometry using nonlinear optimization. The
+  International Journal of Robotics Research, 34(3),
+  314-334.][LuteneggerEtAl2015]
+
+  ```
+  @article{leutenegger2015keyframe,
+    title={Keyframe-based visual--inertial odometry using nonlinear optimization},
+    author={Leutenegger, Stefan and Lynen, Simon and Bosse, Michael and Siegwart, Roland and Furgale, Paul},
+    journal={The International Journal of Robotics Research},
+    volume={34},
+    number={3},
+    pages={314--334},
+    year={2015},
+    publisher={SAGE Publications}
+  }
+  ```
+
 - [Cadena, C., Carlone, L., Carrillo, H., Latif, Y., Scaramuzza, D., Neira, J.,
   ... & Leonard, J. J.  (2016). Simultaneous Localization And Mapping: Present,
   Future, and the Robust-Perception Age.  arXiv preprint
@@ -122,4 +140,5 @@
 [GrisettiEtAl2010]: http://www2.informatik.uni-freiburg.de/~stachnis/pdf/grisetti10titsmag.pdf
 [StrasdatEtAl2010]: https://www.doc.ic.ac.uk/~ajd/Publications/strasdat_etal_icra2010.pdf
 [EngelEtAl2014]: https://vision.in.tum.de/_media/spezial/bib/engel14eccv.pdf
+[LuteneggerEtAl2015]: http://www.roboticsproceedings.org/rss09/p37.pdf
 [CadenaEtAl2016]: http://www.arxiv.org/pdf/1606.05830v2.pdf

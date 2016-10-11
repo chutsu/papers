@@ -161,6 +161,21 @@
   }
   ```
 
+- [Smits, G. F., & Kotanchek, M. (2005). Pareto-front exploitation in symbolic
+  regression. In Genetic programming theory and practice II (pp. 283-299).
+  Springer US.][SmitsKotanchek2004]
+
+  ```
+  @incollection{smits2005pareto,
+    title={Pareto-front exploitation in symbolic regression},
+    author={Smits, Guido F and Kotanchek, Mark},
+    booktitle={Genetic programming theory and practice II},
+    pages={283--299},
+    year={2005},
+    publisher={Springer}
+  }
+  ```
+
 - [Schmidt, M., & Lipson, H. (2005). Coevolution of fitness maximizers and
   fitness predictors. GECCO Late Breaking Paper.][SchmidtLipson2005]
 
@@ -235,7 +250,6 @@
     publisher={Springer}
   }
   ```
-<<<<<<< HEAD
 
 - [Langdon, W. B. (2011). Graphics processing units and genetic programming: an
   overview. Soft Computing, 15(8), 1657-1669.][Langdon2011]
@@ -292,6 +306,7 @@
 [OreillyOppacher1995]: http://www.cs.uml.edu/~giam/91.510/Papers/OReillyOppacher1994.pdf
 [Punch1998]: http://garage.cse.msu.edu/papers/GARAGe98-07-01.pdf
 [Poli2000]: http://cswww.essex.ac.uk/staff/rpoli/papers/Poli-GECCO2000.pdf
+[SmitsKotanchek2004]: http://www.evolved-analytics.com/sites/EA_Documents/Legacy/GPTP04/GPTP04_ParetoGP_Preprint.pdf
 [SchmidtLipson2005]: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.95.3088&rep=rep1&type=pdf
 [PoliLangdon2008]: http://www0.cs.ucl.ac.uk/staff/wlangdon/ftp/papers/poli08_fieldguide.pdf
 [SchmidtLipson2009]: http://www.genetic-programming.org/hc2010/4-Schmidt-Natural-Laws/Schmidt-Science-2009-Natural-Laws-Paper.pdf
