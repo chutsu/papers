@@ -21,17 +21,17 @@
   mapping (SLAM): Part II. IEEE Robotics & Automation Magazine, 13(3),
   108-117.][BaileyDurrant2006]
 
-    ```
-    @article{bailey2006simultaneous,
-      title={Simultaneous localization and mapping (SLAM): Part II},
-      author={Bailey, Tim and Durrant-Whyte, Hugh},
-      journal={IEEE Robotics \& Automation Magazine},
-      volume={13},
-      number={3},
-      pages={108--117},
-      year={2006}
-    }
-    ```
+  ```
+  @article{bailey2006simultaneous,
+    title={Simultaneous localization and mapping (SLAM): Part II},
+    author={Bailey, Tim and Durrant-Whyte, Hugh},
+    journal={IEEE Robotics \& Automation Magazine},
+    volume={13},
+    number={3},
+    pages={108--117},
+    year={2006}
+  }
+  ```
 
 - [Klein, G., & Murray, D. (2007, November). Parallel tracking and mapping for
   small AR workspaces.  In Mixed and Augmented Reality, 2007. ISMAR 2007. 6th
@@ -84,6 +84,22 @@
   }
   ```
 
+- [Strasdat, H., Montiel, J. M., & Davison, A. J. (2012). Visual SLAM: why
+  filter?. Image and Vision Computing, 30(2), 65-77.][StrasdatEtAl2012]
+
+  ```
+  @article{strasdat2012visual,
+    title={Visual SLAM: why filter?},
+    author={Strasdat, Hauke and Montiel, Jos{\'e} MM and Davison, Andrew J},
+    journal={Image and Vision Computing},
+    volume={30},
+    number={2},
+    pages={65--77},
+    year={2012},
+    publisher={Elsevier}
+  }
+  ```
+
 - [Engel, J., Schöps, T., & Cremers, D. (2014, September). LSD-SLAM:
   Large-scale direct monocular SLAM. In European Conference on Computer Vision
   (pp. 834-849). Springer International Publishing.][EngelEtAl2014]
@@ -106,8 +122,10 @@
 
   ```
   @article{leutenegger2015keyframe,
-    title={Keyframe-based visual--inertial odometry using nonlinear optimization},
-    author={Leutenegger, Stefan and Lynen, Simon and Bosse, Michael and Siegwart, Roland and Furgale, Paul},
+    title={Keyframe-based visual--inertial odometry using nonlinear
+    optimization},
+    author={Leutenegger, Stefan and Lynen, Simon and Bosse,
+    Michael and Siegwart, Roland and Furgale, Paul},
     journal={The International Journal of Robotics Research},
     volume={34},
     number={3},
@@ -139,6 +157,7 @@
 [KleinMurray2007]: http://www.robots.ox.ac.uk/~gk/publications/KleinMurray2007ISMAR.pdf
 [GrisettiEtAl2010]: http://www2.informatik.uni-freiburg.de/~stachnis/pdf/grisetti10titsmag.pdf
 [StrasdatEtAl2010]: https://www.doc.ic.ac.uk/~ajd/Publications/strasdat_etal_icra2010.pdf
+[StrasdatEtAl2012]: https://www.doc.ic.ac.uk/~ajd/Publications/strasdat_etal_ivc2012.pdf
 [EngelEtAl2014]: https://vision.in.tum.de/_media/spezial/bib/engel14eccv.pdf
 [LuteneggerEtAl2015]: http://www.roboticsproceedings.org/rss09/p37.pdf
 [CadenaEtAl2016]: http://www.arxiv.org/pdf/1606.05830v2.pdf
