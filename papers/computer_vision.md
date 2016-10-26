@@ -18,7 +18,7 @@
 - [Rublee, E., Rabaud, V., Konolige, K., & Bradski, G. (2011, November). ORB:
   An efficient alternative to SIFT or SURF. In 2011 International conference on
   computer vision (pp. 2564-2571). IEEE.][RubleeEtAl2011]
-  [Notes](#papers/notes/computer_vision/RubleeEtAl2011)
+  [[Notes]](#papers/notes/computer_vision/RubleeEtAl2011)
 
   ```
   @inproceedings{rublee2011orb,
@@ -36,7 +36,7 @@
   detectors and descriptors for fast feature matching. In Pattern Recognition
   (ICPR), 2012 21st International Conference on (pp. 2681-2684). IEEE.]
   [MiksikMikolajczyk2012]
-  [Notes](#papers/notes/computer_vision/MiksikMikolajczyk2012)
+  [[Notes]](#papers/notes/computer_vision/MiksikMikolajczyk2012)
 
   ```
   @inproceedings{miksik2012evaluation,

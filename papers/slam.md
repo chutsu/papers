@@ -4,18 +4,18 @@
   mapping: part I. IEEE robotics & automation magazine, 13(2),
   99-110.][DurrantBailey2006]
 
-    ```
-    @article{durrant2006simultaneous,
-      title={Simultaneous localization and mapping: part I},
-      author={Durrant-Whyte, Hugh and Bailey, Tim},
-      journal={IEEE robotics \& automation magazine},
-      volume={13},
-      number={2},
-      pages={99--110},
-      year={2006},
-      publisher={IEEE}
-    }
-    ```
+  ```
+  @article{durrant2006simultaneous,
+    title={Simultaneous localization and mapping: part I},
+    author={Durrant-Whyte, Hugh and Bailey, Tim},
+    journal={IEEE robotics \& automation magazine},
+    volume={13},
+    number={2},
+    pages={99--110},
+    year={2006},
+    publisher={IEEE}
+  }
+  ```
 
 - [Bailey, T., & Durrant-Whyte, H. (2006). Simultaneous localization and
   mapping (SLAM): Part II. IEEE Robotics & Automation Magazine, 13(3),
