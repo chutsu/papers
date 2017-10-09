@@ -1,0 +1,6 @@
+- Java GP implementation called EDDIE
+- Performing stock market decision tree classiification
+- Implemented OpenCL kernels on CPU and GPU
+- OpenCL CPU was 21 faster than non-OpenCL
+- GPU had no speedup was slower
+- Reasons could be 1. tree branching, 2. data transfer
