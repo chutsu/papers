@@ -1,62 +1,109 @@
 \documentclass{article}
+\usepackage[margin=1.8in]{geometry}
+\usepackage[utf8]{inputenc}
+\usepackage{bibentry}
+\nobibliography*
+
 
 \begin{document}
 
-% COMPUTER VISION
-\section{Computer Vision}
+\bibentry{teixeira2018vi}: argued that a collaborative relative pose estimation
+is required to enable MAV flights close to structures that may have
+insufficient texture near or on the target. The proposed method uses a master
+and slave architecture, where the slave MAV is positioned close to the target
+structure, and the master MAV acting as a reference to the slave is positioned
+further away. The master is retrofitted with a known constellation of LED
+markers in order for the slave MAV to estimate the relative pose.
 
+\bibentry{morrison2016moarslam} A collaborative SLAM system is the work of ,
+where the system is designed to work with multiple hand-held devices equipped
+with either a monocular camera and IMU or stereo camera pair, along with a
+mobile phone or autonomous robot for network and computing capabilities. Each
+agent performs full SLAM on board, and a centralized server is used for storing
+and sharing maps between agents.  However, this system exhibits few other
+collaborative features, for one it does not perform a global optimization of
+the maps created by different agents, nor are the map optimization work load
+shared amongst other agents or server.
 
+\bibentry{deutsch2016framework} a system that can combine different pose graph
+based SLAM systems running on the agents is presented. Additionally, the
+centralized server informs agents about updates in their respective pose
+graphs. However, the global map and sub-maps of other agents are not shared
+amongst the agents.
 
-% CALIBRATION
-\section{Calibration}
+\bibentry{cieslewski2017rapid}: A rapid exploration method for a MAV in an
+unknown environment is devised. The core contribution of this work lies in
+maintaining a constant velocity while exploring an unknown environment, thereby
+reducing the amount of wasted energy hovering in place. During outdoor
+experiments, however, they experienced frequent visual odometry failures due to
+lighting conditions and sudden quadrotor attitude changes.
 
+\bibentry{palazzolo2017information}: proposed an information-driven path
+planning algorithm for a MAV through an unknown environment. The MAV is assumed
+to be carrying a forward-facing camera to perform object mapping, and has a 3D
+bounding box around the target object of interest as a prior. This method is
+validated in simulation only.
 
+\bibentry{zou2013coslam}: CoSLAM obtains multiple monocular camera streams as
+input, and groups cameras using a place recognition module. The disadvantage of
+this system are, first, all cameras need to be synchronized.  Secondly, to
+initialize the SLAM systems all cameras must observe the same scene. Lastly,
+the processing of all data requires a graphics processing unit (GPU) to run at
+real time.
 
-% MAV MODELLING AND CONTROL
-\section{MAV MODELLING AND CONTROL}
+\bibentry{schmuck2018ccm}: Collaborative centralized multi-agent SLAM
+(CCM-SLAM) The system was designed to fuse data streams from multiple monocular
+cameras on board multiple MAVs. Each MAV runs a visual odometry system for
+autonomy, and offloads the computationally intensive tasks back to the central
+server. All information between the MAVs and the central server are shared, for
+example if an agent visits an area of the environment previously visited by
+another agent, previous experiences are retrieved from the server. Finally, the
+server detects and removes redundant data without compromising the robustness
+of the estimation.
 
+\bibentry{cunningham2013ddf}: is an example of decentralized SLAM system, where an
+anti-factor is introduced in order to remove and replace redundant information
+in a graph SLAM problem.
 
+\bibentry{cieslewski2017efficient}: proposes a method that requires a similar
+amount of data exchange between agents as a centralized approach without
+precluding any matches. This is achieved by pre-assigning visual bag-of-words
+vocabulary to different robots, and obtaining a candidate selection to choose
+which robot to send the full query.  Both works were validated in simulation
+only.
 
-% MAV LANDING
-\section{MAV Landing}
+\bibentry{richardson2013iros}: AprilCal guides users to collect a high-quality
+camera images inorder to perform camera intrinsics calibration for a monocular
+camera.
 
+\bibentry{Rebello2017}: Calibrates the extrinsics between a
+stereo camera pair, where one camera is rigidly mounted and the other camera is
+actuated by a gimbal. The key contribution of this work is the next-best-view
+selection and using it to reduce the total amount of image data for a good
+extrinsic calibration.
 
+\bibentry{Bajcsy1988} Actuating a camera intentionally is also known as
+active vision. Active vision is by no means new, one of the earliest work can
+be traced back to \cite{Bajcsy1988} where active vision is defined as a
+problem of an intelligent data acquisition process.
 
-% SLAM
-\section{SLAM}
-
-
-
-% VISUAL-INERTIAL-ODOMETRY
-\section{Visual-Inertial Odometry}
-
-
-
-% VISUAL-ODOMETRY
-\section{Visual Odometry}
-
-
-
-% MULTI-AGENT
-\section{Multi-Agent}
-
-\cite{achtelik2011collaborative} demonstrated that two MAVs equipped with
+\bibentry{achtelik2011collaborative} demonstrated that two MAVs equipped with
 onboard monocular cameras and IMUs can form a flexible stereo rig. This was
 achieved by performing feature correspondence in the overlapping field of view
 between the MAVs to estimate the relative pose.
 
-\cite{zou2013coslam} multiple handheld cameras, but cameras are all
+\bibentry{zou2013coslam} multiple handheld cameras, but cameras are all
 synchronized making it impractical for robotic applications, where the input of
 each camera should be computed asynchronoously in order to cope with missing
 data and delays. Additionally, it is assumed that all cameras observe the same
 scene at the start.
 
-\cite{cunningham2013ddf} presents a fully decentralized SLAM system where
+\bibentry{cunningham2013ddf} presents a fully decentralized SLAM system where
 each robot maintains a consistent augmented local map that combines local and
 neighbourhood information, but the system has only been validated in
 simulation.
 
-\cite{morrison2016moarslam} designed a collaborative SLAM system to be used
+\bibentry{morrison2016moarslam} designed a collaborative SLAM system to be used
 with hand-held devices. The target of this system is to enable multi-device
 mapping. They perform full SLAM on each agent, the server is used as a central
 memory for storing and sharing the agents' maps. This architecture of this
@@ -65,8 +112,8 @@ since the expensive optimization algorithms are still run on the agent. The
 server detects correspondences between maps, but does not run a global
 optimization.
 
-\cite{deutsch2016framework} presents a system that can be run on a server and
-is able to combine different SLAM systems in a collaborative framework. The
+\bibentry{deutsch2016framework} presents a system that can be run on a server
+and is able to combine different SLAM systems in a collaborative framework. The
 SLAM systems that can be combined in this approach, however, are restricted to
 such that operate on a pose graph, where each keyframe has an image and its
 absolute scale linked to it. This excludes, for instance, all pure monocular
@@ -74,5 +121,10 @@ SLAM systems. Furthermore, as in \cite{morrison2016moarslam}, a full SLAM
 system runs on the agent. The server informs an agent about updates in its pose
 graph. The global map on the server and the sub-maps of other agents are not
 visible to the agents.
+
+
+% BIBLIOGRAPHY
+\bibliographystyle{ieeetr}
+\bibliography{index}
 
 \end{document}
