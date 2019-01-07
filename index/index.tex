@@ -1,0 +1,78 @@
+\documentclass{article}
+
+\begin{document}
+
+% COMPUTER VISION
+\section{Computer Vision}
+
+
+
+% CALIBRATION
+\section{Calibration}
+
+
+
+% MAV MODELLING AND CONTROL
+\section{MAV MODELLING AND CONTROL}
+
+
+
+% MAV LANDING
+\section{MAV Landing}
+
+
+
+% SLAM
+\section{SLAM}
+
+
+
+% VISUAL-INERTIAL-ODOMETRY
+\section{Visual-Inertial Odometry}
+
+
+
+% VISUAL-ODOMETRY
+\section{Visual Odometry}
+
+
+
+% MULTI-AGENT
+\section{Multi-Agent}
+
+\cite{achtelik2011collaborative} demonstrated that two MAVs equipped with
+onboard monocular cameras and IMUs can form a flexible stereo rig. This was
+achieved by performing feature correspondence in the overlapping field of view
+between the MAVs to estimate the relative pose.
+
+\cite{zou2013coslam} multiple handheld cameras, but cameras are all
+synchronized making it impractical for robotic applications, where the input of
+each camera should be computed asynchronoously in order to cope with missing
+data and delays. Additionally, it is assumed that all cameras observe the same
+scene at the start.
+
+\cite{cunningham2013ddf} presents a fully decentralized SLAM system where
+each robot maintains a consistent augmented local map that combines local and
+neighbourhood information, but the system has only been validated in
+simulation.
+
+\cite{morrison2016moarslam} designed a collaborative SLAM system to be used
+with hand-held devices. The target of this system is to enable multi-device
+mapping. They perform full SLAM on each agent, the server is used as a central
+memory for storing and sharing the agents' maps. This architecture of this
+system does not make use of many advantages a collaborative system offers,
+since the expensive optimization algorithms are still run on the agent. The
+server detects correspondences between maps, but does not run a global
+optimization.
+
+\cite{deutsch2016framework} presents a system that can be run on a server and
+is able to combine different SLAM systems in a collaborative framework. The
+SLAM systems that can be combined in this approach, however, are restricted to
+such that operate on a pose graph, where each keyframe has an image and its
+absolute scale linked to it. This excludes, for instance, all pure monocular
+SLAM systems. Furthermore, as in \cite{morrison2016moarslam}, a full SLAM
+system runs on the agent. The server informs an agent about updates in its pose
+graph. The global map on the server and the sub-maps of other agents are not
+visible to the agents.
+
+\end{document}
