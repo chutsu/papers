@@ -1,0 +1,15 @@
+\section{High Precision, Consistent EKF-based Visual-Inertial Odometry}
+
+In contrast to EKF-SLAM, MSCKF is an EKF algorithm that maintains in its
+state vector a sliding window of poses, and uses feature observations to
+impose probabilistic constraints between these poses.
+
+IMU measurements are used to propagate the IMU state estimate and the
+filter covariance matrix, simlar to EKF SLAM. The difference lies in teh
+way in which the feature measurements are used, specifically every time
+a new image is recorded by the camera, the MSCKF state and convariance are
+augmented witha copy of the current IMU pose, and the image is processed
+to extract and match features. Each feature is tracked until all its
+meaurements become available (e.g. until it goes out of field of view), at
+which time an update is carried out using all the measurements
+simultaneously.
