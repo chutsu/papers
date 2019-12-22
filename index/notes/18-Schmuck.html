@@ -1,0 +1,9 @@
+Collaborative centralized multi-agent SLAM (CCM-SLAM) The
+system was designed to fuse data streams from multiple monocular cameras on
+board multiple MAVs. Each MAV runs a visual odometry system for autonomy, and
+offloads the computationally intensive tasks back to the central server. All
+information between the MAVs and the central server are shared, for example if
+an agent visits an area of the environment previously visited by another agent,
+previous experiences are retrieved from the server. Finally, the server detects
+and removes redundant data without compromising the robustness of the
+estimation.
