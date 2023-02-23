@@ -1,0 +1,30 @@
+Presented a novel approach to tightly integrate visual measurements with
+readings from an IMU for SLAM. An IMU error term is integrated with the
+landmark reprojection error in a fully probabilistic manner, resulting in
+a joint non-linear cost function to be optimized. Employing the power
+concept of keyframes they partially marginalize old states to maintain
+a bounded-sized optimization window, ensuring real-time operation.
+
+[Strasdat2010] showed that in purely visual SLAM optimization based
+approaches provide better accuracy for the same computational work when
+compared to filtering approaches. Maintaining a relatively sparse graph of
+keyframes and their associated landmarks subject to non-linear
+optimization.
+
+Contributions:
+
+1. Employ keyframe paradigm for drift-free estimation also when slow or
+   no-motion at all is present: rather than using an optimization window
+   of time-successive poses, keyframes are kept.
+
+2. Provide a fully probabilistic derivation of IMU error terms, including
+   the respective information matrix, relating successive image frames
+   without explicitly introducing states at the IMU-rate.
+
+3. At the system level, the authors developed both hardware and algorithms
+   needed for accurate real-time SLAM, including robust keypoint matching
+   and outlier rejection using inertial cues.
+
+[Strasdat2010]: H. Strasdat, J. M. M.Montiel, and A. J. Davison. Real-time
+monocular SLAM: Why Filter? In proceedings of the IEEE International
+Conference on Robotics and Automation (ICRA), 2010.
