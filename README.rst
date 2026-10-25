@@ -642,6 +642,9 @@ Theses
 - `Characterisation and Calibration of Visual-Inertial Sensor
   Units <theses/2016-Nikolic.pdf>`__ (Janosch Nikolic)
 
+- `State Estimation for Legged Robots - Kinematics, Inertial Sensing, and
+  Computer Vision <theses/2017-Bloesch.pdf>`__ (Michael Bloesch)
+
 - `Large-Scale Direct SLAM and 3D Reconstruction in
   Real-Time <theses/2017-Engel.pdf>`__ (Jakob-Julian Engel)
 
