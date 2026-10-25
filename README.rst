@@ -1,661 +1,669 @@
 Papers
 ======
 
-Repo of papers that I read.
+Repo of papers that I read, grouped by topic.
 
 Papers
 ======
 
-- `1966-Brown.pdf <papers/1966-Brown.pdf>`__: Decentering Distortion of Lenses
-  (Duane C. Brown)
+Filtering-Based Visual(-Inertial) Odometry & Localization
+---------------------------------------------------------
 
-- `1980-Golub.pdf <papers/1980-Golub.pdf>`__: Large-Scale Geodetic
-  Least-Squares Adjustment by Dissection and Orthogonal Decomposition (Gene H.
-  Golub and Robert J. Plemmons)
+- `Circumventing Dynamic Modeling: Evaluation of the Error-State Kalman Filter
+  applied to Mobile Robot Localization <papers/1999-Roumeliotis.pdf>`__
+  (Stergios I. Roumeliotis, Gaurav S. Sukhatme and George A. Bekey)
 
-- `1986-Fryer.pdf <papers/1986-Fryer.pdf>`__: Lens Distortion for Close-Range
-  Photogrammetry (John G. Fryer and Duane C. Brown)
+- `Stochastic cloning: a generalized framework for processing relative state
+  measurements <papers/2002-Roumeliotis.pdf>`__ (Roumeliotis and Burdick)
 
-- `1986-Huang.pdf <papers/1986-Huang.pdf>`__: Motion Estimation from 3-D Point
-  Sets with and without Correspondences (Zse-Cherng Lin, Thomas S. Huang,
-  Steven D. Blostein, Hua Lee and E.A. Margerum)
+- `Real-Time Simultaneous Localisation and Mapping with a Single
+  Camera <papers/2003-Davison.pdf>`__ (Andrew J. Davison)
 
-- `1987-Arun.pdf <papers/1987-Arun.pdf>`__: Least-Squares Fitting of Two 3-D
-  Point Sets (K. S. Arun, T. S. Huang, S. D. Blostein)
+- `Unified Inverse Depth Parametrization for Monocular
+  SLAM <papers/2006-Montiel.pdf>`__ (Montiel et al.)
 
-- `1987-Tsai.pdf <papers/1987-Tsai.pdf>`__: A versatile camera calibration
-  technique for high-accuracy 3D machine vision metrology using off-the-shelf
-  TV cameras and lenses (Tsai)
+- `A Multi-State Constraint Kalman Filter for Vision-aided Inertial
+  Navigation <papers/2006-Mourikis.pdf>`__ (Mourikis and Roumeliotis)
 
-- `1988-Harris.pdf <papers/1988-Harris.pdf>`__: A Combined Corner and Edge
-  Detector (Harris and Stephens)
+- `MonoSLAM: Real-Time Single Camera SLAM <papers/2007-Davison.pdf>`__ (Andrew
+  J. Davison, Ian D. Reid, Nicholas D. Molton and Olivier Stasse)
 
-- `1994-Shi.pdf <papers/1994-Shi.pdf>`__: Good Features to Track (Jianbo Shi
-  and Carlo Tomasi)
+- `Inverse Depth Parametrization for Monocular
+  SLAM <papers/2008-Civera.pdf>`__ (Javier Civera, Andrew J. Davison and J. M.
+  Martinez Montiel)
 
-- `1996-Okamura.pdf <papers/1996-Okamura.pdf>`__: Kinematic calibration using
-  the product of exponentials formula (Okamura and Park)
+- `A First-Estimates Jacobian EKF for Improving SLAM
+  Consistency <papers/2008-Huang.pdf>`__ (Huang et al.)
 
-- `1997-Hartley.pdf <papers/1997-Hartley.pdf>`__: In Defense of the
-  Eight-Point Algorithm (Richard I. Hartley)
+- `A Multi-State Constraint Kalman Filter for Vision-aided Inertial
+  Navigation <papers/2008-Mourikis.pdf>`__ (Mourikis and Roumeliotis)
 
-- `1998-Davison.pdf <papers/1998-Davison.pdf>`__: Mobile robot localisation
-  using active vision
+- `Vision-Aided Inertial Navigation for Spacecraft Entry, Descent, and
+  Landing <papers/2009-Mourikis.pdf>`__ (Anastasios I. Mourikis, Nikolas
+  Trawny, Stergios I. Roumeliotis, Andrew E. Johnson, Adnan Ansar and Larry
+  Matthies)
 
-- `1998-Grassia.pdf <papers/1998-Grassia.pdf>`__: Practical Parameterization
-  of Rotations Using the Exponential Map (F. Sebastian Grassia)
+- `Sliding window filter with application to planetary
+  landing <papers/2010-Sibley.pdf>`__ (Sibley et al.)
 
-- `1999-Roumeliotis.pdf <papers/1999-Roumeliotis.pdf>`__: Circumventing
-  Dynamic Modeling: Evaluation of the Error-State Kalman Filter applied to
-  Mobile Robot Localization (Stergios I. Roumeliotis, Gaurav S. Sukhatme and
-  George A. Bekey)
+- `Motion tracking with fixed-lag smoothing: Algorithm and consistency
+  analysis <papers/2011-DongSi.pdf>`__ (Dong-Si and Mourikis)
 
-- `1999-Triggs.pdf <papers/1999-Triggs.pdf>`__: Bundle Adjustment -- A Modern
-  Synthesis (Bill Triggs, Philip F. McLauchlan, Richard I. Hartley and Andrew
-  W. Fitzgibbon)
+- `Towards Consistent Vision-Aided Inertial
+  Navigation <papers/2012-Hesch.pdf>`__ (Hesch et al.)
 
-- `2000-Umbach.pdf <papers/2000-Umbach.pdf>`__: Fuzzy handling of measurement
-  errors in instrumentation (Mauris et al.)
+- `Improving the accuracy of EKF-based visual-inertial
+  odometry <papers/2012-Li.pdf>`__ (Li and Mourikis)
 
-- `2000-Zhang.pdf <papers/2000-Zhang.pdf>`__: A flexible new technique for
-  camera calibration (Zhang)
+- `Visual-Inertial-Aided Navigation for High-Dynamic Motion in Built
+  Environments Without Initial Conditions <papers/2012-Lupton.pdf>`__ (Todd
+  Lupton and Salah Sukkarieh)
 
-- `2001-Kanatani.pdf <papers/2001-Kanatani.pdf>`__: Gauges and gauge
-  transformations for uncertainty description of geometric structure with
-  indeterminacy (K. Kanatani, D.D. Morris)
+- `High-Precision, Consistent EKF-based Visual-Inertial
+  Odometry <papers/2013-Li.pdf>`__ (Mingyang Li and Anastasios I. Mourikis)
 
-- `2002-Davison.pdf <papers/2002-Davison.pdf>`__: Simultaneous localization
-  and map-building using active vision (Davison and Murray)
+- `Consistency Analysis and Improvement of Vision-aided Inertial
+  Navigation <papers/2014-Hesch.pdf>`__ (Joel A. Hesch, Dimitrios G. Kottas,
+  Sean L. Bowman, Stergios I. Roumeliotis)
 
-- `2002-Manton.pdf <papers/2002-Manton.pdf>`__: Optimization algorithms
-  exploiting unitary constraints
+- `Robust visual inertial odometry using a direct EKF-based
+  approach <papers/2015-Bloesch.pdf>`__ (Bloesch et al.)
 
-- `2002-Roumeliotis.pdf <papers/2002-Roumeliotis.pdf>`__: Stochastic cloning:
-  a generalized framework for processing relative state measurements
-  (Roumeliotis and Burdick)
+- `The Battle for Filter Supremacy: A Comparative Study of the Multi-State
+  Constraint Kalman Filter and the Sliding Window
+  Filter <papers/2015-Clement.pdf>`__ (Clement et al.)
 
-- `2003-Davison.pdf <papers/2003-Davison.pdf>`__: Real-Time Simultaneous
-  Localisation and Mapping with a Single Camera (Andrew J. Davison)
+- `Iterated extended Kalman filter based visual-inertial odometry using direct
+  photometric feedback <papers/2017-Bloesch.pdf>`__
 
-- `2005-Davison.pdf <papers/2005-Davison.pdf>`__: Active Search for Real-Time
-  Vision (Andrew J. Davison)
+- `The Two-State Implicit Filter Recursive Estimation for Mobile
+  Robots <papers/2018-Bloesch.pdf>`__ (Bloesch et al.)
 
-- `2006-Bailey.pdf <papers/2006-Bailey.pdf>`__: Simultaneous localization and
-  mapping (SLAM): part II
-
-- `2006-Dellaert.pdf <papers/2006-Dellaert.pdf>`__: Square Root SAM:
-  Simultaneous Localization and Mapping via Square Root
-  Information Smoothing (Dellaert and Kaess)
-
-- `2006-Durrant.pdf <papers/2006-Durrant.pdf>`__: Simultaneous localization
-  and mapping: part I
-
-- `2006-Kannala.pdf <papers/2006-Kannala.pdf>`__: A generic camera model and
-  calibration method for conventional, wide-angle, and fish-eye lenses
-  (Kannala and Brandt)
-
-- `2006-Montiel.pdf <papers/2006-Montiel.pdf>`__: Unified Inverse Depth
-  Parametrization for Monocular SLAM (Montiel et al.)
-
-- `2006-Mourikis.pdf <papers/2006-Mourikis.pdf>`__: A Multi-State Constraint
-  Kalman Filter for Vision-aided Inertial Navigation (Mourikis and
-  Roumeliotis)
-
-- `2006-Ochoa.pdf <papers/2006-Ochoa.pdf>`__: Covariance Propagation for
-  Guided Matching (Benjamin Ochoa and Serge Belongie)
-
-- `2007-Davison.pdf <papers/2007-Davison.pdf>`__: MonoSLAM: Real-Time Single
-  Camera SLAM (Andrew J. Davison, Ian D. Reid, Nicholas D. Molton and Olivier
-  Stasse)
-
-- `2007-Drepper.pdf <papers/2007-Drepper.pdf>`__: What Every Programmer Should
-  Know About Memory (Ulrich Drepper)
-
-- `2007-KleinMurray.pdf <papers/2007-KleinMurray.pdf>`__: Parallel Tracking
-  and Mapping for Small AR Workspaces (Klein and Murray)
-
-- `2007-Yuan.pdf <papers/2007-Yuan.pdf>`__: Image Deblurring with
-  Blurred/Noisy Image Pairs (Lu Yuan, Jian Sun, Long Quan and Heung-Yeung
-  Shum)
-
-- `2008-Chli.pdf <papers/2008-Chli.pdf>`__: Efficient Data Association in
-  Images using Active Matching (Margarita Chli and Andrew J. Davison)
-
-- `2008-Civera.pdf <papers/2008-Civera.pdf>`__: Inverse Depth Parametrization
-  for Monocular SLAM (Javier Civera, Andrew J. Davison and J. M. Martinez
-  Montiel)
-
-- `2008-Huang.pdf <papers/2008-Huang.pdf>`__: A First-Estimates Jacobian EKF
-  for Improving SLAM Consistency (Huang et al.)
-
-- `2008-Klein.pdf <papers/2008-Klein.pdf>`__: Improving the Agility of
-  Keyframe-Based SLAM (Klein and Murray)
-
-- `2008-Mirzaei.pdf <papers/2008-Mirzaei.pdf>`__: A Kalman Filter-Based
-  Algorithm for IMU-Camera Calibration: Observability Analysis and Performance
-  Evaluation (Faraz M. Mirzaei and Stergios I. Roumeliotis)
-
-- `2008-Mourikis.pdf <papers/2008-Mourikis.pdf>`__: A Multi-State Constraint
-  Kalman Filter for Vision-aided Inertial Navigation (Mourikis and
-  Roumeliotis)
-
-- `2009-Chli.pdf <papers/2009-Chli.pdf>`__: Active Matching for Visual
-  Tracking (Margarita Chli and Andrew J. Davison)
-
-- `2009-Hadsell.pdf <papers/2009-Hadsell.pdf>`__: Deep belief net learning in
-  a long-range vision system for autonomous off-road driving (Hadsell et al.)
-
-- `2009-Kaess.pdf <papers/2009-Kaess.pdf>`__: Covariance recovery from a
-  square root information matrix for data association (Kaess and Dellaert)
-
-- `2009-Mourikis.pdf <papers/2009-Mourikis.pdf>`__: Vision-Aided Inertial
-  Navigation for Spacecraft Entry, Descent, and Landing (Anastasios I.
-  Mourikis, Nikolas Trawny, Stergios I. Roumeliotis, Andrew E. Johnson, Adnan
-  Ansar and Larry Matthies)
-
-- `2009-Segal.pdf <papers/2009-Segal.pdf>`__: Generalized-ICP (Aleksandr V.
-  Segal, Dirk Haehnel and Sebastian Thrun)
-
-- `2010-Agarwal.pdf <papers/2010-Agarwal.pdf>`__: Bundle Adjustment in the
-  Large (Sameer Agarwal, Noah Snavely, Steven M. Seitz and Richard Szeliski)
-
-- `2010-Hughes.pdf <papers/2010-Hughes.pdf>`__: Equidistant Fish-Eye
-  Calibration and Rectification by Vanishing Point Extraction (Ciaran Hughes,
-  Patrick Denny, Martin Glavin and Edward Jones)
-
-- `2010-Jeong.pdf <papers/2010-Jeong.pdf>`__: Pushing the envelope of modern
-  methods for bundle adjustment (Jeong et al.)
-
-- `2010-Joshi.pdf <papers/2010-Joshi.pdf>`__: Image deblurring using inertial
-  measurement sensors (Joshi et al.)
-
-- `2010-Sibley.pdf <papers/2010-Sibley.pdf>`__: Sliding window filter with
-  application to planetary landing (Sibley et al.)
-
-- `2010-Strasdat.pdf <papers/2010-Strasdat.pdf>`__: Real-time monocular SLAM:
-  Why filter? (Strasdat et al.)
-
-- `2011-DongSi.pdf <papers/2011-DongSi.pdf>`__: Motion tracking with fixed-lag
-  smoothing: Algorithm and consistency analysis (Dong-Si and Mourikis)
-
-- `2011-Furgale.pdf <papers/2011-Furgale.pdf>`__: Extensions to the Visual
-  Odometry Pipeline for the Exploration of Planetary Surfaces (Paul Timothy
-  Furgale)
-
-- `2011-Mellinger.pdf <papers/2011-Mellinger.pdf>`__: Minimum Snap Trajectory
-  Generation and Control for Quadrotors (Daniel Mellinger, Vijay Kumar)
-
-- `2011-Newcombe.pdf <papers/2011-Newcombe.pdf>`__: DTAM: Dense Tracking and
-  Mapping in Real-Time (Richard A. Newcombe, Steven J. Lovegrove and Andrew J.
-  Davison)
-
-- `2011-Olsen.pdf <papers/2011-Olsen.pdf>`__: AprilTag: A robust and flexible
-  visual fiducial system (Olson)
-
-- `2011-Scaramuzza.pdf <papers/2011-Scaramuzza.pdf>`__: Visual Odometry
-  [Tutorial]: Part I -- The First 30 Years and Fundamentals (Davide Scaramuzza
-  and Friedrich Fraundorfer)
-
-- `2012-Bottou.pdf <papers/2012-Bottou.pdf>`__: From Machine Learning to
-  Machine Reasoning: An Essay (Leon Bottou)
-
-- `2012-Carillo.pdf <papers/2012-Carillo.pdf>`__: On the comparison of
-  uncertainty criteria for active SLAM (Carrillo et al.)
-
-- `2012-Galvez.pdf <papers/2012-Galvez.pdf>`__: Bags of Binary Words for Fast
-  Place Recognition in Image Sequences (Dorian Galvez-Lopez and Juan D.
-  Tardos)
-
-- `2012-Hesch.pdf <papers/2012-Hesch.pdf>`__: Towards Consistent Vision-Aided
-  Inertial Navigation (Hesch et al.)
-
-- `2012-Kumar.pdf <papers/2012-Kumar.pdf>`__: Opportunities and Challenges
-  with Autonomous Micro Aerial Vehicles (Kumar and Michael)
-
-- `2012-Li.pdf <papers/2012-Li.pdf>`__: Improving the accuracy of EKF-based
-  visual-inertial odometry (Li and Mourikis)
-
-- `2012-Lupton.pdf <papers/2012-Lupton.pdf>`__: Visual-Inertial-Aided
-  Navigation for High-Dynamic Motion in Built Environments Without Initial
-  Conditions (Todd Lupton and Salah Sukkarieh)
-
-- `2013-Cunningham.pdf <papers/2013-Cunningham.pdf>`__: DDF-SAM 2.0:
-  Consistent distributed smoothing and mapping (Cunningham et al.)
-
-- `2013-Engel.pdf <papers/2013-Engel.pdf>`__: Semi-dense Visual Odometry for a
-  Monocular Camera (Engel et al.)
-
-- `2013-Forster.pdf <papers/2013-Forster.pdf>`__: Collaborative monocular SLAM
-  with multiple Micro Aerial Vehicles (Forster et al.)
-
-- `2013-Furgale.pdf <papers/2013-Furgale.pdf>`__: Unified temporal and spatial
-  calibration for multi-sensor systems (Furgale et al.)
-
-- `2013-Heng.pdf <papers/2013-Heng.pdf>`__: Autonomous Visual Mapping and
-  Exploration With a Micro Aerial Vehicle
-
-- `2013-Hertzberg.pdf <papers/2013-Hertzberg.pdf>`__: Integrating generic
-  sensor fusion algorithms with sound state representations through
-  encapsulation of manifolds (Hertzberg et al.)
-
-- `2013-Kakumu.pdf <papers/2013-Kakumu.pdf>`__: High Frequency 3D
-  Reconstruction from Unsynchronized Multiple Cameras (Kakumu et al.)
-
-- `2013-Kerl.pdf <papers/2013-Kerl.pdf>`__: Robust odometry estimation for
-  RGB-D cameras (Kerl et al.)
-
-- `2013-Leutenegger.pdf <papers/2013-Leutenegger.pdf>`__: Keyframe-Based
-  Visual-Inertial SLAM using Nonlinear Optimization (Leutenegger et al.)
-
-- `2013-Li.pdf <papers/2013-Li.pdf>`__: High-Precision, Consistent EKF-based
-  Visual-Inertial Odometry (Mingyang Li and Anastasios I. Mourikis)
-
-- `2013-Maye.pdf <papers/2013-Maye.pdf>`__: Self-supervised calibration for
-  robotic systems (Maye et al.)
-
-- `2013-Meilland.pdf <papers/2013-Meilland.pdf>`__: A Unified Rolling Shutter
-  and Motion Blur Model for 3D Visual Registration
-
-- `2013-Oth.pdf <papers/2013-Oth.pdf>`__: Rolling Shutter Camera Calibration
-  (Luc Oth, Paul Furgale, Laurent Kneip, Roland Siegwart)
-
-- `2013-Pascanu.pdf <papers/2013-Pascanu.pdf>`__: On the Difficulty of
-  Training Recurrent Neural Networks (Razvan Pascanu, Tomas Mikolov and Yoshua
-  Bengio)
-
-- `2013-Richardson.pdf <papers/2013-Richardson.pdf>`__: AprilCal: Assisted and
-  repeatable camera calibration (Richardson et al.)
-
-- `2013-Zou.pdf <papers/2013-Zou.pdf>`__: CoSLAM: Collaborative Visual SLAM in
-  Dynamic Environments (Zou and Tan)
-
-- `2014-Bangura.pdf <papers/2014-Bangura.pdf>`__: Real-time Model Predictive
-  Control for Quadrotors (Bangura and Mahony)
-
-- `2014-Eigen.pdf <papers/2014-Eigen.pdf>`__: Depth Map Prediction from a
-  Single Image using a Multi-Scale Deep Network (David Eigen, Christian
-  Puhrsch, Rob Fergus)
-
-- `2014-Engel.pdf <papers/2014-Engel.pdf>`__: LSD-SLAM: Large-Scale Direct
-  Monocular SLAM (Engel et al.)
-
-- `2014-Fankhauser.pdf <papers/2014-Fankhauser.pdf>`__: Robot-Centric
-  Elevation Mapping with Uncertainty Estimates (P. Fankhauser, M. Bloesch, C.
-  Gehring, M. Hutter and R. Siegwart)
-
-- `2014-Forster.pdf <papers/2014-Forster.pdf>`__: SVO: Fast Semi-Direct
-  Monocular Visual Odometry (Christian Forster, Matia Pizzoli and Davide
-  Scaramuzza)
-
-- `2014-Guo.pdf <papers/2014-Guo.pdf>`__: Efficient Visual-Inertial Navigation
-  using a Rolling-Shutter Camera with Inaccurate Timestamps (Guo et al.)
-
-- `2014-Heng.pdf <papers/2014-Heng.pdf>`__: Self-Calibration and Visual SLAM
-  with a Multi-Camera System on a Micro Aerial Vehicle (Lionel Heng, Gim Hee
-  Lee and Marc Pollefeys)
-
-- `2014-Hesch.pdf <papers/2014-Hesch.pdf>`__: Consistency Analysis and
-  Improvement of Vision-aided Inertial Navigation (Joel A. Hesch, Dimitrios G.
-  Kottas, Sean L. Bowman, Stergios I. Roumeliotis)
-
-- `2014-Kelly.pdf <papers/2014-Kelly.pdf>`__: A General Framework for Temporal
-  Calibration of Multiple Proprioceptive and Exteroceptive Sensors (Jonathan
-  Kelly and Gaurav S. Sukhatme)
-
-- `2014-Kerl.pdf <papers/2014-Kerl.pdf>`__: Towards Illumination-Invariant 3D
-  Reconstruction Using ToF RGB-D Cameras (Kerl et al.)
-
-- `2014-Maddern.pdf <papers/2014-Maddern.pdf>`__: Illumination Invariant
-  Imaging: Applications in Robust Vision-based Localisation, Mapping and
-  Classification for Autonomous Vehicles (Will Maddern, Alexander D. Stewart,
-  Colin McManus, Ben Upcroft, Winston Churchill and Paul Newman)
-
-- `2014-Morrison.pdf <papers/2014-Morrison.pdf>`__: MOARSLAM: Multiple
-  Operator Augmented RSLAM (Morrison et al.)
-
-- `2014-Nikolic.pdf <papers/2014-Nikolic.pdf>`__: A synchronized
-  visual-inertial sensor system with FPGA pre-processing for accurate
-  real-time SLAM (Nikolic et al.)
-
-- `2014-Pizzoli.pdf <papers/2014-Pizzoli.pdf>`__: REMODE: Probabilistic,
-  Monocular Dense Reconstruction in Real Time (Matia Pizzoli, Christian
-  Forster and Davide Scaramuzza)
-
-- `2014-Szegedy.pdf <papers/2014-Szegedy.pdf>`__: Going Deeper with
-  Convolutions (Christian Szegedy et al.)
-
-- `2014-Zach.pdf <papers/2014-Zach.pdf>`__: Robust Bundle Adjustment Revisited
-  (Zach)
-
-- `2015-Bloesch.pdf <papers/2015-Bloesch.pdf>`__: Robust visual inertial
-  odometry using a direct EKF-based approach (Bloesch et al.)
-
-- `2015-Clement.pdf <papers/2015-Clement.pdf>`__: The Battle for Filter
-  Supremacy: A Comparative Study of the Multi-State Constraint Kalman Filter
-  and the Sliding Window Filter (Clement et al.)
-
-- `2015-Eigen.pdf <papers/2015-Eigen.pdf>`__: Predicting Depth, Surface
-  Normals and Semantic Labels with a Common Multi-Scale Convolutional
-  Architecture (David Eigen and Rob Fergus)
-
-- `2015-Forster-Supplementary.pdf <papers/2015-Forster-Supplementary.pdf>`__:
-  Supplementary Material to: IMU Preintegration on Manifold for Efficient
-  Visual-Inertial Maximum-a-Posteriori Estimation (Christian Forster, Luca
-  Carlone, Frank Dellaert and Davide Scaramuzza)
-
-- `2015-Forster.pdf <papers/2015-Forster.pdf>`__: IMU Preintegration on
-  Manifold for Efficient Visual-Inertial Maximum-a-Posteriori Estimation
-  (Christian Forster, Luca Carlone, Frank Dellaert and Davide Scaramuzza)
-
-- `2015-Ila.pdf <papers/2015-Ila.pdf>`__: Fast covariance recovery in
-  incremental nonlinear least square solvers (Ila et al.)
-
-- `2015-Jaderberg.pdf <papers/2015-Jaderberg.pdf>`__: Spatial Transformer
-  Networks (Max Jaderberg, Karen Simonyan, Andrew Zisserman, koray
-  kavukcuoglu)
-
-- `2015-Leutenegger.pdf <papers/2015-Leutenegger.pdf>`__: Keyframe-based
-  visual–inertial odometry using nonlinear optimization (Leutenegger et al.)
-
-- `2015-Liu.pdf <papers/2015-Liu.pdf>`__: Learning Depth from Single Monocular
-  Images Using Deep Convolutional Neural Fields (Fayao Liu, Chunhua Shen,
-  Guosheng Lin and Ian Reid)
-
-- `2015-Lourenco.pdf <papers/2015-Lourenco.pdf>`__: Torwards uncertainty
-  optimization in active SLAM (Lourenco et al.)
-
-- `2015-Mur-Artal.pdf <papers/2015-Mur-Artal.pdf>`__: ORB-SLAM: A Versatile
-  and Accurate Monocular SLAM System (Raul Mur-Artal, J. M. M. Montiel and
-  Juan D. Tardos)
-
-- `2015-Shen.pdf <papers/2015-Shen.pdf>`__: Tightly-Coupled Monocular
-  Visual-Inertial Fusion for Autonomous Flight of Rotorcraft MAVs (Shaojie
-  Shen, Nathan Michael, Vijay Kumar)
-
-- `2015-Tribou.pdf <papers/2015-Tribou.pdf>`__: Degenerate Motions in
-  Multicamera Cluster SLAM with Non-overlapping Fields of View (Michael J.
-  Tribou, David W. L. Wang and Steven L. Waslander)
-
-- `2016-Bloesch.pdf <papers/2016-Bloesch.pdf>`__: A Primer on the Differential
-  Calculus of 3D Orientations (Michael Bloesch et al.)
-
-- `2016-Burri.pdf <papers/2016-Burri.pdf>`__: A framework for maximum
-  likelihood parameter identification applied on MAVs (Burri et al.)
-
-- `2016-Das.pdf <papers/2016-Das.pdf>`__: Calibration of a dynamic camera
-  cluster for multi-camera visual SLAM (Das and Waslander)
-
-- `2016-Engel.pdf <papers/2016-Engel.pdf>`__: Direct Sparse Odometry (Jakob
-  Engel, Vladlen Koltun and Daniel Cremers)
-
-- `2016-Farras.pdf <papers/2016-Farras.pdf>`__: Active Camera Calibration for
-  Robotic Systems (Ricard Boada Farras)
-
-- `2016-Forster.pdf <papers/2016-Forster.pdf>`__: SVO: Semidirect Visual
-  Odometry for Monocular and Multicamera Systems (Christian Forster, Zichao
-  Zhang, Michael Gassner, Manuel Werlberger and Davide Scaramuzza)
-
-- `2016-He.pdf <papers/2016-He.pdf>`__: Deep Residual Learning for Image
-  Recognition (Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun)
-
-- `2016-Lla.pdf <papers/2016-Lla.pdf>`__: Highly Efficient Compact Pose SLAM
-  with SLAM++ (Viorela Ila, Lukas Polok, Marek Solony and Pavel Svoboda)
-
-- `2016b-Forster.pdf <papers/2016b-Forster.pdf>`__: On-Manifold Preintegration
-  for Real-Time Visual-Inertial Odometry (Christian Forster, Luca Carlone,
-  Frank Dellaert and Davide Scaramuzza)
-
-- `2017-Bloesch.pdf <papers/2017-Bloesch.pdf>`__: Iterated extended Kalman
-  filter based visual-inertial odometry using direct photometric feedback
-
-- `2017-Cieslewski.pdf <papers/2017-Cieslewski.pdf>`__: Efficient
-  Decentralized Visual Place Recognition Using a Distributed Inverted Index
-  (Cieslewski and Scaramuzza)
-
-- `2017-Godard.pdf <papers/2017-Godard.pdf>`__: Unsupervised Monocular Depth
-  Estimation with Left-Right Consistency (Clement Godard, Oisin Mac Aodha and
-  Gabriel J. Brostow)
-
-- `2017-Howard.pdf <papers/2017-Howard.pdf>`__: MobileNets: Efficient
-  Convolutional Neural Networks for Mobile Vision Applications (Andrew G.
-  Howard et al.)
-
-- `2017-Kai.pdf <papers/2017-Kai.pdf>`__: Nonlinear Feedback Control of
-  Quadrotors Exploiting First-Order Drag Effects (Jean-Marie Kai, Guillaume
-  Allibert, Minh-Duc Hua and Tarek Hamel)
-
-- `2017-Ledig.pdf <papers/2017-Ledig.pdf>`__: Photo-Realistic Single Image
-  Super-Resolution Using a Generative Adversarial Network (Christian Ledig et
-  al.)
-
-- `2017-Liu.pdf <papers/2017-Liu.pdf>`__: Robust Guided Image Filtering (Wei
-  Liu, Xiaogang Chen, Chunhua Shen, Jingyi Yu, Qiang Wu and Jie Yang)
-
-- `2017-Lopez.pdf <papers/2017-Lopez.pdf>`__: Aggressive Collision Avoidance
-  with Limited Field-Of-View Sensing (Brett Lopez, Jonathan Patrick How)
-
-- `2017-Palazzolo.pdf <papers/2017-Palazzolo.pdf>`__: Information-Driven
-  Autonomous Exploration for a Vision-Based MAV (Emanuele Palazzolo and Cyrill
-  Stachniss)
-
-- `2017-Rebello.pdf <papers/2017-Rebello.pdf>`__: Autonomous Active
-  Calibration of a Dynamic Camera Cluster Using Next-Best-View (Jason Rebello,
-  Arun Das, Steven Lake Waslander)
-
-- `2017-Rengarajan.pdf <papers/2017-Rengarajan.pdf>`__: Unrolling the Shutter:
-  CNN to Correct Motion Distortions (Rengarajan et al.)
-
-- `2017-Schmuck.pdf <papers/2017-Schmuck.pdf>`__: Multi-UAV collaborative
-  monocular SLAM (Schmuck and Chli)
-
-- `2017-Schneider.pdf <papers/2017-Schneider.pdf>`__: Visual-inertial
-  self-calibration on informative motion segments (Schneider et al.)
-
-- `2017-Tao.pdf <papers/2017-Tao.pdf>`__: Detail-Revealing Deep Video
-  Super-Resolution (Tao et al.)
-
-- `2017-Vaswani.pdf <papers/2017-Vaswani.pdf>`__: Attention Is All You Need
-  (Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones,
-  Aidan N. Gomez, Lukasz Kaiser and Illia Polosukhin)
-
-- `2017-Vespa.pdf <papers/2017-Vespa.pdf>`__: Efficient Octree-Based
-  Volumetric SLAM Supporting Signed-Distance and Occupancy Mapping (Emanuele
-  Vespa, Nikolay Nikolov, Marius Grimm, Luigi Nardi, Paul H J Kelly and Stefan
-  Leutenegger)
-
-- `2018-Alshammari.pdf <papers/2018-Alshammari.pdf>`__: On the Impact of
-  Illumination-Invariant Image Pre-transformation for Contemporary Automotive
-  Semantic Scene Understanding (Alshammari et al.)
-
-- `2018-Bloesch.pdf <papers/2018-Bloesch.pdf>`__: The Two-State Implicit
-  Filter Recursive Estimation for Mobile Robots (Bloesch et al.)
-
-- `2018-Huang.pdf <papers/2018-Huang.pdf>`__: Online Initialization and
-  Automatic Camera-IMU Extrinsic Calibration for Monocular Visual-Inertial
-  SLAM (Huang and Liu)
-
-- `2018-Ma.pdf <papers/2018-Ma.pdf>`__: Sparse-to-Dense: Depth Prediction from
-  Sparse Depth Samples and a Single Image (Ma and Karaman)
-
-- `2018-Mustaniemi.pdf <papers/2018-Mustaniemi.pdf>`__: Fast Motion Deblurring
-  for Feature Detection and Matching Using Inertial Measurements (Mustaniemi
-  et al.)
-
-- `2018-Nobre.pdf <papers/2018-Nobre.pdf>`__: FastCal: Robust Online
-  Self-calibration for Robotic Systems (Nobre and Heckman)
-
-- `2018-Park.pdf <papers/2018-Park.pdf>`__: High-Precision Depth Estimation
-  with the 3D LiDAR and Stereo Fusion
-
-- `2018-Patel.pdf <papers/2018-Patel.pdf>`__: Point Me In The Right Direction:
-  Improving Visual Localization on UAVs with Active Gimballed Camera Pointing
-  (Patel et al.)
-
-- `2018-Peng.pdf <papers/2018-Peng.pdf>`__: Calibration Wizard: A Guidance
-  System for Camera Calibration Based on Modelling Geometric and Corner
-  Uncertainty (Peng and Sturm)
-
-- `2018-Persson.pdf <papers/2018-Persson.pdf>`__: Lambda Twist: An Accurate
-  Fast Robust Perspective Three Point (P3P) Solver (Persson and Nordberg)
-
-- `2018-Poggi.pdf <papers/2018-Poggi.pdf>`__: Towards Real-Time Unsupervised
-  Monocular Depth Estimation on CPU (Poggi et al.)
-
-- `2018-Schmuck.pdf <papers/2018-Schmuck.pdf>`__: CCM‐SLAM: Robust and
-  efficient centralized collaborative monocular simultaneous localization and
-  mapping for robotic teams (Schmuck and Chli)
-
-- `2018-Smolyanskiy.pdf <papers/2018-Smolyanskiy.pdf>`__: On the Importance of
-  Stereo for Accurate Depth Estimation: An Efficient Semi-Supervised Deep
-  Neural Network Approach (Nikolai Smolyanskiy, Alexey Kamenev and Stan
-  Birchfield)
-
-- `2018-Sun.pdf <papers/2018-Sun.pdf>`__: Robust Stereo Visual Inertial
-  Odometry for Fast Autonomous Flight (Ke Sun, Kartik Mohta, Bernd Pfrommer,
+- `Robust Stereo Visual Inertial Odometry for Fast Autonomous
+  Flight <papers/2018-Sun.pdf>`__ (Ke Sun, Kartik Mohta, Bernd Pfrommer,
   Michael Watterson, Sikang Liu, Yash Mulgaonkar, Camillo J. Taylor and Vijay
   Kumar)
 
-- `2018-Teixeira.pdf <papers/2018-Teixeira.pdf>`__: VI-RPE: Visual-Inertial
-  Relative Pose Estimation for Aerial Vehicles (Teixeira et al.)
+- `VI-RPE: Visual-Inertial Relative Pose Estimation for Aerial
+  Vehicles <papers/2018-Teixeira.pdf>`__ (Teixeira et al.)
 
-- `2018-Usenko.pdf <papers/2018-Usenko.pdf>`__: The Double Sphere Camera Model
-  (Usenko et al.)
+Optimization & Keyframe-Based Visual(-Inertial) SLAM
+----------------------------------------------------
 
-- `2018-Zhang.pdf <papers/2018-Zhang.pdf>`__: On the Comparison of Gauge
-  Freedom Handling in Optimization-Based Visual-Inertial State Estimation
-  (Zhang et al.)
+- `Parallel Tracking and Mapping for Small AR
+  Workspaces <papers/2007-KleinMurray.pdf>`__ (Klein and Murray)
 
-- `2018-Zhou.pdf <papers/2018-Zhou.pdf>`__: DeepTAM: Deep Tracking and Mapping
-  with Convolutional Neural Networks (Zhou et al.)
+- `Improving the Agility of Keyframe-Based SLAM <papers/2008-Klein.pdf>`__
+  (Klein and Murray)
 
-- `2018a-Qin.pdf <papers/2018a-Qin.pdf>`__: VINS-Mono: A Robust and Versatile
-  Monocular Visual-Inertial State Estimator (Qin et al.)
+- `Extensions to the Visual Odometry Pipeline for the Exploration of Planetary
+  Surfaces <papers/2011-Furgale.pdf>`__ (Paul Timothy Furgale)
 
-- `2018a-Zhang.pdf <papers/2018a-Zhang.pdf>`__: A Tutorial on Quantitative
-  Trajectory Evaluation for Visual(-Inertial) Odometry (Zhang and Scaramuzza)
+- `Semi-dense Visual Odometry for a Monocular
+  Camera <papers/2013-Engel.pdf>`__ (Engel et al.)
 
-- `2018b-Qin.pdf <papers/2018b-Qin.pdf>`__: Online Temporal Calibration for
-  Monocular Visual-Inertial Systems (Qin and Shen)
+- `Robust odometry estimation for RGB-D cameras <papers/2013-Kerl.pdf>`__
+  (Kerl et al.)
 
-- `2019-Dimos.pdf <papers/2019-Dimos.pdf>`__: Fully Autonomous MAV Flight and
-  Landing on a Moving Target Using Visual-Inertial Estimation and
-  Model-Predictive Control (Dimosthenis Tzoumanikas et al.)
+- `Keyframe-Based Visual-Inertial SLAM using Nonlinear
+  Optimization <papers/2013-Leutenegger.pdf>`__ (Leutenegger et al.)
 
-- `2019-Godard.pdf <papers/2019-Godard.pdf>`__: Digging Into Self-Supervised
-  Monocular Depth Estimation (Clement Godard, Oisin Mac Aodha, Michael Firman
-  and Gabriel J. Brostow)
+- `LSD-SLAM: Large-Scale Direct Monocular SLAM <papers/2014-Engel.pdf>`__
+  (Engel et al.)
 
-- `2019-Schneider.pdf <papers/2019-Schneider.pdf>`__: Observability-Aware
-  Self-Calibration of Visual and Inertial Sensors for Ego-Motion Estimation
-  (Schneider et al.)
+- `SVO: Fast Semi-Direct Monocular Visual
+  Odometry <papers/2014-Forster.pdf>`__ (Christian Forster, Matia Pizzoli and
+  Davide Scaramuzza)
 
-- `2019-Wofk.pdf <papers/2019-Wofk.pdf>`__: FastDepth: Fast Monocular Depth
-  Estimation on Embedded Systems (Wofk et al.)
+- `Supplementary Material to: IMU Preintegration on Manifold for Efficient
+  Visual-Inertial Maximum-a-Posteriori
+  Estimation <papers/2015-Forster-Supplementary.pdf>`__ (Christian Forster,
+  Luca Carlone, Frank Dellaert and Davide Scaramuzza)
 
-- `2019-Zhuang.pdf <papers/2019-Zhuang.pdf>`__: Learning
-  Structure-And-Motion-Aware Rolling Shutter Correction (Zhuang et al.)
+- `IMU Preintegration on Manifold for Efficient Visual-Inertial
+  Maximum-a-Posteriori Estimation <papers/2015-Forster.pdf>`__ (Christian
+  Forster, Luca Carlone, Frank Dellaert and Davide Scaramuzza)
 
-- `2019-Zubizarreta.pdf <papers/2019-Zubizarreta.pdf>`__: Direct Sparse
-  Mapping (Jon Zubizarreta, Iker Aguinaga and Jose Maria Martinez Montiel)
+- `Keyframe-based visual–inertial odometry using nonlinear
+  optimization <papers/2015-Leutenegger.pdf>`__ (Leutenegger et al.)
 
-- `2019a-Lee.pdf <papers/2019a-Lee.pdf>`__: Triangulation: Why Optimize?
-  (Seong Hun Lee and Javier Civera)
+- `ORB-SLAM: A Versatile and Accurate Monocular SLAM
+  System <papers/2015-Mur-Artal.pdf>`__ (Raul Mur-Artal, J. M. M. Montiel and
+  Juan D. Tardos)
 
-- `2019b-Lee.pdf <papers/2019b-Lee.pdf>`__: Closed-Form Optimal Two-View
-  Triangulation Based on Angular Errors (Lee and Civera)
+- `Tightly-Coupled Monocular Visual-Inertial Fusion for Autonomous Flight of
+  Rotorcraft MAVs <papers/2015-Shen.pdf>`__ (Shaojie Shen, Nathan Michael,
+  Vijay Kumar)
 
-- `2020-Campos.pdf <papers/2020-Campos.pdf>`__: ORB-SLAM3: An Accurate
-  Open-Source Library for Visual, Visual-Inertial, and Multi-Map SLAM (Carlos
-  Campos, Richard Elvira, Juan J. Gomez Rodriguez, Jose M. M. Montiel and Juan
-  D. Tardos)
+- `Direct Sparse Odometry <papers/2016-Engel.pdf>`__ (Jakob Engel, Vladlen
+  Koltun and Daniel Cremers)
 
-- `2020-Muglikar.pdf <papers/2020-Muglikar.pdf>`__: Voxel Map for Visual SLAM
-  (M. Muglikar, Z. Zhang, D. Scaramuzza)
+- `SVO: Semidirect Visual Odometry for Monocular and Multicamera
+  Systems <papers/2016-Forster.pdf>`__ (Christian Forster, Zichao Zhang,
+  Michael Gassner, Manuel Werlberger and Davide Scaramuzza)
 
-- `2020-Sartipi.pdf <papers/2020-Sartipi.pdf>`__: Deep Depth Estimation from
-  Visual-Inertial SLAM (Kourosh Sartipi, Tien Do, Tong Ke, Khiem Vuong and
-  Stergios I. Roumeliotis)
+- `Highly Efficient Compact Pose SLAM with SLAM++ <papers/2016-Lla.pdf>`__
+  (Viorela Ila, Lukas Polok, Marek Solony and Pavel Svoboda)
 
-- `2021-Demmel.pdf <papers/2021-Demmel.pdf>`__: Square Root Marginalization
-  for Sliding-Window Bundle Adjustment (Nikolaus Demmel, David Schubert,
-  Christiane Sommer, Daniel Cremers, Vladyslav Usenko)
+- `On-Manifold Preintegration for Real-Time Visual-Inertial
+  Odometry <papers/2016b-Forster.pdf>`__ (Christian Forster, Luca Carlone,
+  Frank Dellaert and Davide Scaramuzza)
 
-- `2021-Dosovitskiy.pdf <papers/2021-Dosovitskiy.pdf>`__: An Image is Worth
-  16x16 Words: Transformers for Image Recognition at Scale (Alexey Dosovitskiy
-  et al.)
+- `VINS-Mono: A Robust and Versatile Monocular Visual-Inertial State
+  Estimator <papers/2018a-Qin.pdf>`__ (Qin et al.)
 
-- `2022-Stumberg.pdf <papers/2022-Stumberg.pdf>`__: DM-VIO: Delayed
-  Marginalization Visual-Inertial Odometry (Lukas von Stumberg and Daniel
+- `Direct Sparse Mapping <papers/2019-Zubizarreta.pdf>`__ (Jon Zubizarreta,
+  Iker Aguinaga and Jose Maria Martinez Montiel)
+
+- `ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial, and
+  Multi-Map SLAM <papers/2020-Campos.pdf>`__ (Carlos Campos, Richard Elvira,
+  Juan J. Gomez Rodriguez, Jose M. M. Montiel and Juan D. Tardos)
+
+- `DM-VIO: Delayed Marginalization Visual-Inertial
+  Odometry <papers/2022-Stumberg.pdf>`__ (Lukas von Stumberg and Daniel
   Cremers)
 
-- `2022-Vizzo.pdf <papers/2022-Vizzo.pdf>`__: KISS-ICP: In Defense of
-  Point-to-Point ICP -- Simple, Accurate, and Robust Registration If Done the
-  Right Way (Ignacio Vizzo, Tiziano Guadagnino, Benedikt Mersch, Louis
-  Wiesmann, Jens Behley and Cyrill Stachniss)
+SLAM Theory, Backends, Surveys & Tools
+--------------------------------------
 
-- `2022-Zhang.pdf <papers/2022-Zhang.pdf>`__: Aerial additive manufacturing
-  with multiple autonomous robots (Ketao Zhang)
+- `Simultaneous localization and mapping (SLAM): part
+  II <papers/2006-Bailey.pdf>`__
+
+- `Square Root SAM: Simultaneous Localization and Mapping via Square Root
+  Information Smoothing <papers/2006-Dellaert.pdf>`__ (Dellaert and Kaess)
+
+- `Simultaneous localization and mapping: part I <papers/2006-Durrant.pdf>`__
+
+- `Covariance recovery from a square root information matrix for data
+  association <papers/2009-Kaess.pdf>`__ (Kaess and Dellaert)
+
+- `Real-time monocular SLAM: Why filter? <papers/2010-Strasdat.pdf>`__
+  (Strasdat et al.)
+
+- `Visual Odometry [Tutorial]: Part I -- The First 30 Years and
+  Fundamentals <papers/2011-Scaramuzza.pdf>`__ (Davide Scaramuzza and
+  Friedrich Fraundorfer)
+
+- `Integrating generic sensor fusion algorithms with sound state
+  representations through encapsulation of
+  manifolds <papers/2013-Hertzberg.pdf>`__ (Hertzberg et al.)
+
+- `Fast covariance recovery in incremental nonlinear least square
+  solvers <papers/2015-Ila.pdf>`__ (Ila et al.)
+
+- `A Tutorial on Quantitative Trajectory Evaluation for Visual(-Inertial)
+  Odometry <papers/2018a-Zhang.pdf>`__ (Zhang and Scaramuzza)
+
+Collaborative & Multi-Robot SLAM, Place Recognition
+---------------------------------------------------
+
+- `Bags of Binary Words for Fast Place Recognition in Image
+  Sequences <papers/2012-Galvez.pdf>`__ (Dorian Galvez-Lopez and Juan D.
+  Tardos)
+
+- `DDF-SAM 2.0: Consistent distributed smoothing and
+  mapping <papers/2013-Cunningham.pdf>`__ (Cunningham et al.)
+
+- `Collaborative monocular SLAM with multiple Micro Aerial
+  Vehicles <papers/2013-Forster.pdf>`__ (Forster et al.)
+
+- `CoSLAM: Collaborative Visual SLAM in Dynamic
+  Environments <papers/2013-Zou.pdf>`__ (Zou and Tan)
+
+- `MOARSLAM: Multiple Operator Augmented RSLAM <papers/2014-Morrison.pdf>`__
+  (Morrison et al.)
+
+- `Efficient Decentralized Visual Place Recognition Using a Distributed
+  Inverted Index <papers/2017-Cieslewski.pdf>`__ (Cieslewski and Scaramuzza)
+
+- `Multi-UAV collaborative monocular SLAM <papers/2017-Schmuck.pdf>`__
+  (Schmuck and Chli)
+
+- `CCM‐SLAM: Robust and efficient centralized collaborative monocular
+  simultaneous localization and mapping for robotic
+  teams <papers/2018-Schmuck.pdf>`__ (Schmuck and Chli)
+
+Active Vision, Active SLAM & Exploration
+----------------------------------------
+
+- `Mobile robot localisation using active vision <papers/1998-Davison.pdf>`__
+
+- `Simultaneous localization and map-building using active
+  vision <papers/2002-Davison.pdf>`__ (Davison and Murray)
+
+- `Active Search for Real-Time Vision <papers/2005-Davison.pdf>`__ (Andrew J.
+  Davison)
+
+- `Efficient Data Association in Images using Active
+  Matching <papers/2008-Chli.pdf>`__ (Margarita Chli and Andrew J. Davison)
+
+- `Active Matching for Visual Tracking <papers/2009-Chli.pdf>`__ (Margarita
+  Chli and Andrew J. Davison)
+
+- `On the comparison of uncertainty criteria for active
+  SLAM <papers/2012-Carillo.pdf>`__ (Carrillo et al.)
+
+- `Autonomous Visual Mapping and Exploration With a Micro Aerial
+  Vehicle <papers/2013-Heng.pdf>`__
+
+- `Torwards uncertainty optimization in active
+  SLAM <papers/2015-Lourenco.pdf>`__ (Lourenco et al.)
+
+- `Information-Driven Autonomous Exploration for a Vision-Based
+  MAV <papers/2017-Palazzolo.pdf>`__ (Emanuele Palazzolo and Cyrill Stachniss)
+
+- `Point Me In The Right Direction: Improving Visual Localization on UAVs with
+  Active Gimballed Camera Pointing <papers/2018-Patel.pdf>`__ (Patel et al.)
+
+Mapping, Dense Reconstruction & Registration
+--------------------------------------------
+
+- `Generalized-ICP <papers/2009-Segal.pdf>`__ (Aleksandr V. Segal, Dirk
+  Haehnel and Sebastian Thrun)
+
+- `DTAM: Dense Tracking and Mapping in Real-Time <papers/2011-Newcombe.pdf>`__
+  (Richard A. Newcombe, Steven J. Lovegrove and Andrew J. Davison)
+
+- `High Frequency 3D Reconstruction from Unsynchronized Multiple
+  Cameras <papers/2013-Kakumu.pdf>`__ (Kakumu et al.)
+
+- `Robot-Centric Elevation Mapping with Uncertainty
+  Estimates <papers/2014-Fankhauser.pdf>`__ (P. Fankhauser, M. Bloesch, C.
+  Gehring, M. Hutter and R. Siegwart)
+
+- `Towards Illumination-Invariant 3D Reconstruction Using ToF RGB-D
+  Cameras <papers/2014-Kerl.pdf>`__ (Kerl et al.)
+
+- `REMODE: Probabilistic, Monocular Dense Reconstruction in Real
+  Time <papers/2014-Pizzoli.pdf>`__ (Matia Pizzoli, Christian Forster and
+  Davide Scaramuzza)
+
+- `Efficient Octree-Based Volumetric SLAM Supporting Signed-Distance and
+  Occupancy Mapping <papers/2017-Vespa.pdf>`__ (Emanuele Vespa, Nikolay
+  Nikolov, Marius Grimm, Luigi Nardi, Paul H J Kelly and Stefan Leutenegger)
+
+- `Voxel Map for Visual SLAM <papers/2020-Muglikar.pdf>`__ (M. Muglikar, Z.
+  Zhang, D. Scaramuzza)
+
+- `KISS-ICP: In Defense of Point-to-Point ICP -- Simple, Accurate, and Robust
+  Registration If Done the Right Way <papers/2022-Vizzo.pdf>`__ (Ignacio
+  Vizzo, Tiziano Guadagnino, Benedikt Mersch, Louis Wiesmann, Jens Behley and
+  Cyrill Stachniss)
+
+Features, Geometric Vision & Multi-View Geometry
+------------------------------------------------
+
+- `Large-Scale Geodetic Least-Squares Adjustment by Dissection and Orthogonal
+  Decomposition <papers/1980-Golub.pdf>`__ (Gene H. Golub and Robert J.
+  Plemmons)
+
+- `Motion Estimation from 3-D Point Sets with and without
+  Correspondences <papers/1986-Huang.pdf>`__ (Zse-Cherng Lin, Thomas S. Huang,
+  Steven D. Blostein, Hua Lee and E.A. Margerum)
+
+- `Least-Squares Fitting of Two 3-D Point Sets <papers/1987-Arun.pdf>`__ (K.
+  S. Arun, T. S. Huang, S. D. Blostein)
+
+- `A Combined Corner and Edge Detector <papers/1988-Harris.pdf>`__ (Harris and
+  Stephens)
+
+- `Good Features to Track <papers/1994-Shi.pdf>`__ (Jianbo Shi and Carlo
+  Tomasi)
+
+- `In Defense of the Eight-Point Algorithm <papers/1997-Hartley.pdf>`__
+  (Richard I. Hartley)
+
+- `Practical Parameterization of Rotations Using the Exponential
+  Map <papers/1998-Grassia.pdf>`__ (F. Sebastian Grassia)
+
+- `Bundle Adjustment -- A Modern Synthesis <papers/1999-Triggs.pdf>`__ (Bill
+  Triggs, Philip F. McLauchlan, Richard I. Hartley and Andrew W. Fitzgibbon)
+
+- `Gauges and gauge transformations for uncertainty description of geometric
+  structure with indeterminacy <papers/2001-Kanatani.pdf>`__ (K. Kanatani,
+  D.D. Morris)
+
+- `Optimization algorithms exploiting unitary
+  constraints <papers/2002-Manton.pdf>`__
+
+- `Covariance Propagation for Guided Matching <papers/2006-Ochoa.pdf>`__
+  (Benjamin Ochoa and Serge Belongie)
+
+- `Bundle Adjustment in the Large <papers/2010-Agarwal.pdf>`__ (Sameer
+  Agarwal, Noah Snavely, Steven M. Seitz and Richard Szeliski)
+
+- `Pushing the envelope of modern methods for bundle
+  adjustment <papers/2010-Jeong.pdf>`__ (Jeong et al.)
+
+- `Robust Bundle Adjustment Revisited <papers/2014-Zach.pdf>`__ (Zach)
+
+- `Degenerate Motions in Multicamera Cluster SLAM with Non-overlapping Fields
+  of View <papers/2015-Tribou.pdf>`__ (Michael J. Tribou, David W. L. Wang and
+  Steven L. Waslander)
+
+- `A Primer on the Differential Calculus of 3D
+  Orientations <papers/2016-Bloesch.pdf>`__ (Michael Bloesch et al.)
+
+- `Lambda Twist: An Accurate Fast Robust Perspective Three Point (P3P)
+  Solver <papers/2018-Persson.pdf>`__ (Persson and Nordberg)
+
+- `On the Comparison of Gauge Freedom Handling in Optimization-Based
+  Visual-Inertial State Estimation <papers/2018-Zhang.pdf>`__ (Zhang et al.)
+
+- `Triangulation: Why Optimize? <papers/2019a-Lee.pdf>`__ (Seong Hun Lee and
+  Javier Civera)
+
+- `Closed-Form Optimal Two-View Triangulation Based on Angular
+  Errors <papers/2019b-Lee.pdf>`__ (Lee and Civera)
+
+- `Square Root Marginalization for Sliding-Window Bundle
+  Adjustment <papers/2021-Demmel.pdf>`__ (Nikolaus Demmel, David Schubert,
+  Christiane Sommer, Daniel Cremers, Vladyslav Usenko)
+
+Camera Models, Sensor Calibration & Systems
+-------------------------------------------
+
+- `Decentering Distortion of Lenses <papers/1966-Brown.pdf>`__ (Duane C.
+  Brown)
+
+- `Lens Distortion for Close-Range Photogrammetry <papers/1986-Fryer.pdf>`__
+  (John G. Fryer and Duane C. Brown)
+
+- `A versatile camera calibration technique for high-accuracy 3D machine
+  vision metrology using off-the-shelf TV cameras and
+  lenses <papers/1987-Tsai.pdf>`__ (Tsai)
+
+- `Kinematic calibration using the product of exponentials
+  formula <papers/1996-Okamura.pdf>`__ (Okamura and Park)
+
+- `A flexible new technique for camera calibration <papers/2000-Zhang.pdf>`__
+  (Zhang)
+
+- `A generic camera model and calibration method for conventional, wide-angle,
+  and fish-eye lenses <papers/2006-Kannala.pdf>`__ (Kannala and Brandt)
+
+- `A Kalman Filter-Based Algorithm for IMU-Camera Calibration: Observability
+  Analysis and Performance Evaluation <papers/2008-Mirzaei.pdf>`__ (Faraz M.
+  Mirzaei and Stergios I. Roumeliotis)
+
+- `Equidistant Fish-Eye Calibration and Rectification by Vanishing Point
+  Extraction <papers/2010-Hughes.pdf>`__ (Ciaran Hughes, Patrick Denny, Martin
+  Glavin and Edward Jones)
+
+- `AprilTag: A robust and flexible visual fiducial
+  system <papers/2011-Olsen.pdf>`__ (Olson)
+
+- `Unified temporal and spatial calibration for multi-sensor
+  systems <papers/2013-Furgale.pdf>`__ (Furgale et al.)
+
+- `Self-supervised calibration for robotic systems <papers/2013-Maye.pdf>`__
+  (Maye et al.)
+
+- `AprilCal: Assisted and repeatable camera
+  calibration <papers/2013-Richardson.pdf>`__ (Richardson et al.)
+
+- `Self-Calibration and Visual SLAM with a Multi-Camera System on a Micro
+  Aerial Vehicle <papers/2014-Heng.pdf>`__ (Lionel Heng, Gim Hee Lee and Marc
+  Pollefeys)
+
+- `A General Framework for Temporal Calibration of Multiple Proprioceptive and
+  Exteroceptive Sensors <papers/2014-Kelly.pdf>`__ (Jonathan Kelly and Gaurav
+  S. Sukhatme)
+
+- `A synchronized visual-inertial sensor system with FPGA pre-processing for
+  accurate real-time SLAM <papers/2014-Nikolic.pdf>`__ (Nikolic et al.)
+
+- `Calibration of a dynamic camera cluster for multi-camera visual
+  SLAM <papers/2016-Das.pdf>`__ (Das and Waslander)
+
+- `Active Camera Calibration for Robotic Systems <papers/2016-Farras.pdf>`__
+  (Ricard Boada Farras)
+
+- `Autonomous Active Calibration of a Dynamic Camera Cluster Using
+  Next-Best-View <papers/2017-Rebello.pdf>`__ (Jason Rebello, Arun Das, Steven
+  Lake Waslander)
+
+- `Visual-inertial self-calibration on informative motion
+  segments <papers/2017-Schneider.pdf>`__ (Schneider et al.)
+
+- `Online Initialization and Automatic Camera-IMU Extrinsic Calibration for
+  Monocular Visual-Inertial SLAM <papers/2018-Huang.pdf>`__ (Huang and Liu)
+
+- `FastCal: Robust Online Self-calibration for Robotic
+  Systems <papers/2018-Nobre.pdf>`__ (Nobre and Heckman)
+
+- `Calibration Wizard: A Guidance System for Camera Calibration Based on
+  Modelling Geometric and Corner Uncertainty <papers/2018-Peng.pdf>`__ (Peng
+  and Sturm)
+
+- `The Double Sphere Camera Model <papers/2018-Usenko.pdf>`__ (Usenko et al.)
+
+- `Online Temporal Calibration for Monocular Visual-Inertial
+  Systems <papers/2018b-Qin.pdf>`__ (Qin and Shen)
+
+- `Observability-Aware Self-Calibration of Visual and Inertial Sensors for
+  Ego-Motion Estimation <papers/2019-Schneider.pdf>`__ (Schneider et al.)
+
+Rolling Shutter, Motion Blur & Deblurring
+-----------------------------------------
+
+- `Image Deblurring with Blurred/Noisy Image Pairs <papers/2007-Yuan.pdf>`__
+  (Lu Yuan, Jian Sun, Long Quan and Heung-Yeung Shum)
+
+- `Image deblurring using inertial measurement
+  sensors <papers/2010-Joshi.pdf>`__ (Joshi et al.)
+
+- `A Unified Rolling Shutter and Motion Blur Model for 3D Visual
+  Registration <papers/2013-Meilland.pdf>`__
+
+- `Rolling Shutter Camera Calibration <papers/2013-Oth.pdf>`__ (Luc Oth, Paul
+  Furgale, Laurent Kneip, Roland Siegwart)
+
+- `Efficient Visual-Inertial Navigation using a Rolling-Shutter Camera with
+  Inaccurate Timestamps <papers/2014-Guo.pdf>`__ (Guo et al.)
+
+- `Unrolling the Shutter: CNN to Correct Motion
+  Distortions <papers/2017-Rengarajan.pdf>`__ (Rengarajan et al.)
+
+- `Fast Motion Deblurring for Feature Detection and Matching Using Inertial
+  Measurements <papers/2018-Mustaniemi.pdf>`__ (Mustaniemi et al.)
+
+- `Learning Structure-And-Motion-Aware Rolling Shutter
+  Correction <papers/2019-Zhuang.pdf>`__ (Zhuang et al.)
+
+Learning-Based Depth, Image Enhancement & Scene Understanding
+-------------------------------------------------------------
+
+- `Deep belief net learning in a long-range vision system for autonomous
+  off-road driving <papers/2009-Hadsell.pdf>`__ (Hadsell et al.)
+
+- `Depth Map Prediction from a Single Image using a Multi-Scale Deep
+  Network <papers/2014-Eigen.pdf>`__ (David Eigen, Christian Puhrsch, Rob
+  Fergus)
+
+- `Illumination Invariant Imaging: Applications in Robust Vision-based
+  Localisation, Mapping and Classification for Autonomous
+  Vehicles <papers/2014-Maddern.pdf>`__ (Will Maddern, Alexander D. Stewart,
+  Colin McManus, Ben Upcroft, Winston Churchill and Paul Newman)
+
+- `Predicting Depth, Surface Normals and Semantic Labels with a Common
+  Multi-Scale Convolutional Architecture <papers/2015-Eigen.pdf>`__ (David
+  Eigen and Rob Fergus)
+
+- `Learning Depth from Single Monocular Images Using Deep Convolutional Neural
+  Fields <papers/2015-Liu.pdf>`__ (Fayao Liu, Chunhua Shen, Guosheng Lin and
+  Ian Reid)
+
+- `Unsupervised Monocular Depth Estimation with Left-Right
+  Consistency <papers/2017-Godard.pdf>`__ (Clement Godard, Oisin Mac Aodha and
+  Gabriel J. Brostow)
+
+- `Photo-Realistic Single Image Super-Resolution Using a Generative
+  Adversarial Network <papers/2017-Ledig.pdf>`__ (Christian Ledig et al.)
+
+- `Robust Guided Image Filtering <papers/2017-Liu.pdf>`__ (Wei Liu, Xiaogang
+  Chen, Chunhua Shen, Jingyi Yu, Qiang Wu and Jie Yang)
+
+- `Detail-Revealing Deep Video Super-Resolution <papers/2017-Tao.pdf>`__ (Tao
+  et al.)
+
+- `On the Impact of Illumination-Invariant Image Pre-transformation for
+  Contemporary Automotive Semantic Scene
+  Understanding <papers/2018-Alshammari.pdf>`__ (Alshammari et al.)
+
+- `Sparse-to-Dense: Depth Prediction from Sparse Depth Samples and a Single
+  Image <papers/2018-Ma.pdf>`__ (Ma and Karaman)
+
+- `High-Precision Depth Estimation with the 3D LiDAR and Stereo
+  Fusion <papers/2018-Park.pdf>`__
+
+- `Towards Real-Time Unsupervised Monocular Depth Estimation on
+  CPU <papers/2018-Poggi.pdf>`__ (Poggi et al.)
+
+- `On the Importance of Stereo for Accurate Depth Estimation: An Efficient
+  Semi-Supervised Deep Neural Network
+  Approach <papers/2018-Smolyanskiy.pdf>`__ (Nikolai Smolyanskiy, Alexey
+  Kamenev and Stan Birchfield)
+
+- `DeepTAM: Deep Tracking and Mapping with Convolutional Neural
+  Networks <papers/2018-Zhou.pdf>`__ (Zhou et al.)
+
+- `Digging Into Self-Supervised Monocular Depth
+  Estimation <papers/2019-Godard.pdf>`__ (Clement Godard, Oisin Mac Aodha,
+  Michael Firman and Gabriel J. Brostow)
+
+- `FastDepth: Fast Monocular Depth Estimation on Embedded
+  Systems <papers/2019-Wofk.pdf>`__ (Wofk et al.)
+
+- `Deep Depth Estimation from Visual-Inertial
+  SLAM <papers/2020-Sartipi.pdf>`__ (Kourosh Sartipi, Tien Do, Tong Ke, Khiem
+  Vuong and Stergios I. Roumeliotis)
+
+Deep Learning & Neural Network Architectures
+--------------------------------------------
+
+- `On the Difficulty of Training Recurrent Neural
+  Networks <papers/2013-Pascanu.pdf>`__ (Razvan Pascanu, Tomas Mikolov and
+  Yoshua Bengio)
+
+- `Going Deeper with Convolutions <papers/2014-Szegedy.pdf>`__ (Christian
+  Szegedy et al.)
+
+- `Spatial Transformer Networks <papers/2015-Jaderberg.pdf>`__ (Max Jaderberg,
+  Karen Simonyan, Andrew Zisserman, koray kavukcuoglu)
+
+- `Deep Residual Learning for Image Recognition <papers/2016-He.pdf>`__
+  (Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun)
+
+- `MobileNets: Efficient Convolutional Neural Networks for Mobile Vision
+  Applications <papers/2017-Howard.pdf>`__ (Andrew G. Howard et al.)
+
+- `Attention Is All You Need <papers/2017-Vaswani.pdf>`__ (Ashish Vaswani,
+  Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez,
+  Lukasz Kaiser and Illia Polosukhin)
+
+- `An Image is Worth 16x16 Words: Transformers for Image Recognition at
+  Scale <papers/2021-Dosovitskiy.pdf>`__ (Alexey Dosovitskiy et al.)
+
+Aerial Robotics: Planning, Control & Systems
+--------------------------------------------
+
+- `Minimum Snap Trajectory Generation and Control for
+  Quadrotors <papers/2011-Mellinger.pdf>`__ (Daniel Mellinger, Vijay Kumar)
+
+- `Opportunities and Challenges with Autonomous Micro Aerial
+  Vehicles <papers/2012-Kumar.pdf>`__ (Kumar and Michael)
+
+- `Real-time Model Predictive Control for
+  Quadrotors <papers/2014-Bangura.pdf>`__ (Bangura and Mahony)
+
+- `A framework for maximum likelihood parameter identification applied on
+  MAVs <papers/2016-Burri.pdf>`__ (Burri et al.)
+
+- `Nonlinear Feedback Control of Quadrotors Exploiting First-Order Drag
+  Effects <papers/2017-Kai.pdf>`__ (Jean-Marie Kai, Guillaume Allibert,
+  Minh-Duc Hua and Tarek Hamel)
+
+- `Aggressive Collision Avoidance with Limited Field-Of-View
+  Sensing <papers/2017-Lopez.pdf>`__ (Brett Lopez, Jonathan Patrick How)
+
+- `Fully Autonomous MAV Flight and Landing on a Moving Target Using
+  Visual-Inertial Estimation and Model-Predictive
+  Control <papers/2019-Dimos.pdf>`__ (Dimosthenis Tzoumanikas et al.)
+
+- `Aerial additive manufacturing with multiple autonomous
+  robots <papers/2022-Zhang.pdf>`__ (Ketao Zhang)
+
+Miscellaneous
+-------------
+
+- `Fuzzy handling of measurement errors in
+  instrumentation <papers/2000-Umbach.pdf>`__ (Mauris et al.)
+
+- `What Every Programmer Should Know About Memory <papers/2007-Drepper.pdf>`__
+  (Ulrich Drepper)
+
+- `From Machine Learning to Machine Reasoning: An
+  Essay <papers/2012-Bottou.pdf>`__ (Leon Bottou)
 
 Theses
 ======
 
-- `1991-Park.pdf <theses/1991-Park.pdf>`__: The Optimal Kinematic Design of
-  Mechanisms (Frank Chongwoo Park)
+- `The Optimal Kinematic Design of Mechanisms <theses/1991-Park.pdf>`__ (Frank
+  Chongwoo Park)
 
-- `1999-Davison.pdf <theses/1999-Davison.pdf>`__: Mobile Robot Navigation
-  Using Active Vision (Andrew John Davison)
+- `Mobile Robot Navigation Using Active Vision <theses/1999-Davison.pdf>`__
+  (Andrew John Davison)
 
-- `2008-Kaess.pdf <theses/2008-Kaess.pdf>`__: Incremental Smoothing and
-  Mapping (Michael Kaess)
+- `Incremental Smoothing and Mapping <theses/2008-Kaess.pdf>`__ (Michael
+  Kaess)
 
-- `2009-Chli.pdf <theses/2009-Chli.pdf>`__: Applying Information Theory to
-  Efficient SLAM (Margarita Chli)
+- `Applying Information Theory to Efficient SLAM <theses/2009-Chli.pdf>`__
+  (Margarita Chli)
 
-- `2011-Furgale.pdf <theses/2011-Furgale.pdf>`__: Extensions to the Visual
-  Odometry Pipeline for the Exploration of Planetary Surfaces (Paul Timothy
-  Furgale)
+- `Extensions to the Visual Odometry Pipeline for the Exploration of Planetary
+  Surfaces <theses/2011-Furgale.pdf>`__ (Paul Timothy Furgale)
 
-- `2012-Kerl.pdf <theses/2012-Kerl.pdf>`__: Odometry from RGB-D Cameras for
-  Autonomous Quadrocopters (Christian Kerl)
+- `Odometry from RGB-D Cameras for Autonomous
+  Quadrocopters <theses/2012-Kerl.pdf>`__ (Christian Kerl)
 
-- `2012-Newcombe.pdf <theses/2012-Newcombe.pdf>`__: Dense Visual SLAM (Richard
-  A. Newcombe)
+- `Dense Visual SLAM <theses/2012-Newcombe.pdf>`__ (Richard A. Newcombe)
 
-- `2014-Maye.pdf <theses/2014-Maye.pdf>`__: Online Self-Calibration for
-  Robotic Systems (Jerome Maye)
+- `Online Self-Calibration for Robotic Systems <theses/2014-Maye.pdf>`__
+  (Jerome Maye)
 
-- `2014-Shelly.pdf <theses/2014-Shelly.pdf>`__: Monocular Visual Inertial
-  Odometry on a Mobile Device (Michael Shelley)
+- `Monocular Visual Inertial Odometry on a Mobile
+  Device <theses/2014-Shelly.pdf>`__ (Michael Shelley)
 
-- `2015-Playe.pdf <theses/2015-Playe.pdf>`__: Improving the Performance of
-  Monocular Visual Simultaneous Localisation and Mapping through the use of a
-  Gimballed Camera (Nicholas Playle)
+- `Improving the Performance of Monocular Visual Simultaneous Localisation and
+  Mapping through the use of a Gimballed Camera <theses/2015-Playe.pdf>`__
+  (Nicholas Playle)
 
-- `2016-Nikolic.pdf <theses/2016-Nikolic.pdf>`__: Characterisation and
-  Calibration of Visual-Inertial Sensor Units (Janosch Nikolic)
+- `Characterisation and Calibration of Visual-Inertial Sensor
+  Units <theses/2016-Nikolic.pdf>`__ (Janosch Nikolic)
 
-- `2017-Engel.pdf <theses/2017-Engel.pdf>`__: Large-Scale Direct SLAM and 3D
-  Reconstruction in Real-Time (Jakob-Julian Engel)
+- `Large-Scale Direct SLAM and 3D Reconstruction in
+  Real-Time <theses/2017-Engel.pdf>`__ (Jakob-Julian Engel)
 
-- `2018-Das.pdf <theses/2018-Das.pdf>`__: Informed Data Selection For Dynamic
-  Multi-Camera Clusters (Arun Das)
+- `Informed Data Selection For Dynamic Multi-Camera
+  Clusters <theses/2018-Das.pdf>`__ (Arun Das)
 
-- `2018-Fankhauser.pdf <theses/2018-Fankhauser.pdf>`__: Perceptive Locomotion
-  for Legged Robots in Rough Terrain (Péter Fankhauser)
+- `Perceptive Locomotion for Legged Robots in Rough
+  Terrain <theses/2018-Fankhauser.pdf>`__ (Péter Fankhauser)
 
-- `2018-Ganti.pdf <theses/2018-Ganti.pdf>`__: Semantically Informed Visual
-  Odometry and Mapping (Pranav Ganti)
+- `Semantically Informed Visual Odometry and
+  Mapping <theses/2018-Ganti.pdf>`__ (Pranav Ganti)
 
-- `2019-Schneider.pdf <theses/2019-Schneider.pdf>`__: Visual and Inertial
-  Motion Estimation and Calibration (Thomas Schneider)
+- `Visual and Inertial Motion Estimation and
+  Calibration <theses/2019-Schneider.pdf>`__ (Thomas Schneider)
 
-- `2020-Eckenhoff.pdf <theses/2020-Eckenhoff.pdf>`__: Towards Robust
-  Visual-Inertial Estimation (Kevin Eckenhoff)
+- `Towards Robust Visual-Inertial Estimation <theses/2020-Eckenhoff.pdf>`__
+  (Kevin Eckenhoff)
 
-- `2021-Tzoumanikas.pdf <theses/2021-Tzoumanikas.pdf>`__: Safe and Accurate
-  MAV Control, Navigation and Manipulation (Dimosthenis Tzoumanikas)
+- `Safe and Accurate MAV Control, Navigation and
+  Manipulation <theses/2021-Tzoumanikas.pdf>`__ (Dimosthenis Tzoumanikas)
 
-- `2022-Xu.pdf <theses/2022-Xu.pdf>`__: Object-level Dynamic SLAM (Binbin Xu)
+- `Object-level Dynamic SLAM <theses/2022-Xu.pdf>`__ (Binbin Xu)
 
-- `2023-Funk.pdf <theses/2023-Funk.pdf>`__: Multi-resolution Mapping and
-  Planning for UAV Navigation in Attitude Constrained Environments (Nils Funk)
+- `Multi-resolution Mapping and Planning for UAV Navigation in Attitude
+  Constrained Environments <theses/2023-Funk.pdf>`__ (Nils Funk)
